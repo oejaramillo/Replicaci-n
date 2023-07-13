@@ -1,0 +1,1460 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1046{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times;}
+{\f5\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helvetica;}{\f6\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier;}{\f7\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Geneva;}
+{\f8\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Tms Rmn;}{\f9\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helv;}{\f10\froman\fcharset0\fprq2{\*\panose 00000000000000000000}MS Serif;}
+{\f11\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MS Sans Serif;}{\f12\froman\fcharset0\fprq2{\*\panose 00000000000000000000}New York;}{\f13\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}System;}
+{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f15\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f16\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Boulder;}
+{\f17\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Marlett;}{\f18\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Arial MT Black;}{\f19\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Benguiat Frisky ATT;}
+{\f20\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Poster Bodoni ATT;}{\f21\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Gill Sans MT Shadow;}{\f22\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Goudy Old Style ATT;}
+{\f23\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Graphite Light ATT;}{\f24\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Graphite Light Narrow ATT;}{\f25\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Lucida Casual;}
+{\f26\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Milestones;}{\f27\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Phyllis ATT;}{\f28\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Signet Roundhand ATT;}
+{\f29\froman\fcharset2\fprq2{\*\panose 05050102010205020202}MT Extra;}{\f30\fmodern\fcharset2\fprq1{\*\panose 00000000000000000000}MS LineDraw;}{\f31\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Algerian;}
+{\f32\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Arial Rounded MT Bold;}{\f33\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f34\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Braggadocio;}
+{\f35\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Britannic Bold;}{\f36\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Brush Script MT;}{\f37\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Century Gothic;}
+{\f38\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Colonna MT;}{\f39\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Desdemona;}{\f40\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Footlight MT Light;}
+{\f41\fswiss\fcharset0\fprq2{\*\panose 020b0806030902050204}Impact;}{\f42\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Kino MT;}{\f43\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Wide Latin;}
+{\f44\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Matura MT Script Capitals;}{\f45\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Playbill;}{\f46\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Book Antiqua;}
+{\f47\fnil\fcharset2\fprq2{\*\panose 01010601010101010101}Monotype Sorts;}{\f48\fswiss\fcharset0\fprq2{\*\panose 020b0506020202030204}Arial Narrow;}{\f49\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Monotype Corsiva;}
+{\f50\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Century Schoolbook;}{\f51\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Albertus Extra Bold;}{\f52\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Albertus Medium;}
+{\f53\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Antique Olive;}{\f54\froman\fcharset0\fprq2{\*\panose 00000000000000000000}CG Times;}{\f55\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Coronet;}
+{\f56\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Letter Gothic;}{\f57\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Univers Condensed;}{\f58\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Univers;}
+{\f59\fswiss\fcharset0\fprq2{\*\panose 020b0a04020102020204}Arial Black;}{\f60\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Map Symbols;}{\f61\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Haettenschweiler;}
+{\f62\froman\fcharset0\fprq2{\*\panose 02020404030301010803}Garamond;}{\f63\fscript\fcharset0\fprq2{\*\panose 030f0702030302020204}Comic Sans MS;}{\f64\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}
+{\f65\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Albertus (W1);}{\f66\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Albertus Xb (W1);}{\f67\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Antique Olv (W1);}
+{\f68\froman\fcharset0\fprq2{\*\panose 00000000000000000000}CG Times (W1);}{\f69\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Coronet (W1);}{\f70\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier (W1);}
+{\f71\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Letter Gothic (W1);}{\f72\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Univers (W1);}{\f73\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Univers Cd (W1);}
+{\f74\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Wingdings (L$);}{\f75\fmodern\fcharset255\fprq2{\*\panose 00000000000000000000}Modern;}{\f76\fscript\fcharset255\fprq2{\*\panose 00000000000000000000}Script;}
+{\f77\froman\fcharset255\fprq2{\*\panose 00000000000000000000}Roman;}{\f78\fswiss\fcharset0\fprq1{\*\panose 00000000000000000000}MS Dialog;}{\f79\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Fixedsys;}
+{\f80\fmodern\fcharset255\fprq1{\*\panose 00000000000000000000}Terminal;}{\f81\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Small Fonts;}{\f82\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}MS Outlook;}
+{\f83\froman\fcharset2\fprq2{\*\panose 05030102010509060703}Webdings;}{\f84\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Georgia;}{\f85\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Trebuchet MS;}
+{\f86\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Monotype.com;}{\f87\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Minion Web;}{\f88\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times New (W1);}
+{\f89\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Arial (W1);}{\f90\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}CG Omega (W1);}{\f91\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Marigold (W1);}
+{\f92\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Garamond (W1);}{\f93\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Clarendon Cd (W1);}{\f94\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}LinePrinter (W1);}
+{\f95\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Trebuchet MS CE;}{\f96\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Trebuchet MS Tur;}{\f97\fmodern\fcharset238\fprq1{\*\panose 00000000000000000000}Monotype.com CE;}
+{\f98\fmodern\fcharset204\fprq1{\*\panose 00000000000000000000}Monotype.com Cyr;}{\f99\fmodern\fcharset161\fprq1{\*\panose 00000000000000000000}Monotype.com Greek;}{\f100\fmodern\fcharset162\fprq1{\*\panose 00000000000000000000}Monotype.com Tur;}
+{\f101\fmodern\fcharset186\fprq1{\*\panose 00000000000000000000}Monotype.com Baltic;}{\f102\froman\fcharset238\fprq2{\*\panose 00000000000000000000}Minion Web CE;}{\f103\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Minion Web Tur;}
+{\f104\froman\fcharset186\fprq2{\*\panose 00000000000000000000}Minion Web Baltic;}{\f195\fswiss\fcharset238\fprq2 Tahoma CE;}{\f196\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f198\fswiss\fcharset161\fprq2 Tahoma Greek;}
+{\f199\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f200\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f303\froman\fcharset238\fprq2 Bookman Old Style CE;}{\f304\froman\fcharset204\fprq2 Bookman Old Style Cyr;}
+{\f306\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f307\froman\fcharset162\fprq2 Bookman Old Style Tur;}{\f308\froman\fcharset186\fprq2 Bookman Old Style Baltic;}{\f351\fswiss\fcharset238\fprq2 Impact CE;}
+{\f352\fswiss\fcharset204\fprq2 Impact Cyr;}{\f354\fswiss\fcharset161\fprq2 Impact Greek;}{\f355\fswiss\fcharset162\fprq2 Impact Tur;}{\f356\fswiss\fcharset186\fprq2 Impact Baltic;}{\f393\fswiss\fcharset238\fprq2 Arial Narrow CE;}
+{\f394\fswiss\fcharset204\fprq2 Arial Narrow Cyr;}{\f396\fswiss\fcharset161\fprq2 Arial Narrow Greek;}{\f397\fswiss\fcharset162\fprq2 Arial Narrow Tur;}{\f398\fswiss\fcharset186\fprq2 Arial Narrow Baltic;}{\f459\fswiss\fcharset238\fprq2 Arial Black CE;}
+{\f460\fswiss\fcharset204\fprq2 Arial Black Cyr;}{\f462\fswiss\fcharset161\fprq2 Arial Black Greek;}{\f463\fswiss\fcharset162\fprq2 Arial Black Tur;}{\f464\fswiss\fcharset186\fprq2 Arial Black Baltic;}{\f477\froman\fcharset238\fprq2 Garamond CE;}
+{\f478\froman\fcharset204\fprq2 Garamond Cyr;}{\f480\froman\fcharset161\fprq2 Garamond Greek;}{\f481\froman\fcharset162\fprq2 Garamond Tur;}{\f482\froman\fcharset186\fprq2 Garamond Baltic;}{\f489\fswiss\fcharset238\fprq2 Verdana CE;}
+{\f490\fswiss\fcharset204\fprq2 Verdana Cyr;}{\f492\fswiss\fcharset161\fprq2 Verdana Greek;}{\f493\fswiss\fcharset162\fprq2 Verdana Tur;}{\f494\fswiss\fcharset186\fprq2 Verdana Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \lang1046\cgrid \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}{\s15\fi851\sl480\slmult1
+\nowidctlpar\widctlpar\adjustright \b\i\f16\fs32\ul\cf2\lang1046\cgrid \sbasedon0 \snext15 mario;}{\s16\nowidctlpar\widctlpar\tqc\tx4419\tqr\tx8838\adjustright \lang1046\cgrid \sbasedon0 \snext16 footer;}{\*\cs17 \additive \sbasedon10 page number;}}{\info
+{\title DESCRI\'c7\'c3O SUM\'c1RIA DAS VARI\'c1VEIS DO PME 1.02}{\author CONTROLE DE RECURSOS}{\operator marileni}{\creatim\yr1998\mo10\dy8\hr10\min24}{\revtim\yr1999\mo5\dy3\hr10\min55}{\printim\yr1996\mo11\dy20\hr10\min14}{\version5}{\edmins25}
+{\nofpages31}{\nofwords6508}{\nofchars-32766}{\*\company IBGE}{\nofcharsws0}{\vern73}}\paperw11907\paperh16840\margl1418\margr992\margt1418\margb1418 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\lytprtmet\hyphcaps0\formshade\viewkind1\viewscale75\pgbrdrhead\pgbrdrfoot \fet0\sectd \psz9\linex0\headery709\footery709\colsx709\endnhere\sectdefaultcl {\footer \pard\plain \s16\nowidctlpar\widctlpar
+\tqc\tx4419\tqr\tx8838\pvpara\phmrg\posxc\posy0\adjustright \lang1046\cgrid {\field{\*\fldinst {\cs17 PAGE  }}{\fldrslt {\cs17\lang1024 31}}}{\cs17 
+\par }\pard \s16\nowidctlpar\widctlpar\tqc\tx4419\tqr\tx8838\adjustright {
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \nowidctlpar\widctlpar\adjustright \lang1046\cgrid {
+\par }\pard \qc\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b\fs22  DESCRI\'c7\'c3O DAS VARI\'c1VEIS DA PESQUISA MENSAL DE EMPREGO - PME 1.01  
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b 
+\par }\pard \qc\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b\fs22 DICION\'c1RIO DE DADOS
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b 
+\par Vari\'e1vel  101 - N\'famero no 202 / 203
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Identifica a unidade domiciliar selecionada nos instrumentos de listagem.
+\par }\pard \qj\fi709\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }\pard \qj\fi-992\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  102 - N\'famero de controle
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Identifica o c\'f3digo da \'e1rea de pesquisa.
+\par }\pard \qj\fi709\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }\pard \qj\fi-992\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  103 - N\'famero de s\'e9rie   
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Corresponde o n\'famero do domic\'edlio selecionado dentro de cada \'e1rea investigada.}{\b  
+\par }\pard \qj\fi709\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b 
+\par }\pard \qj\fi-992\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  104 - Tipo de entrevista}{\i  }{
+\par }\pard \qj\fi-425\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Pode ser classificada em tr\'eas tipos:
+\par }\pard \fi-993\li2694\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Tipo A  - Unidade ocupada que pode ser dividida em realizada e n\'e3o realizada que por sua vez se divide em fechada, recusa e outra.
+\par }{\fs20                         }{1}{\fs20  - REALIZADA
+\par                         }{2}{\fs20  - FECHADA
+\par                         }{3}{\fs20  - RECUSA
+\par                         }{4}{\fs20  - OUTRA
+\par }\pard \fi-1560\li3261\sl360\slmult1\nowidctlpar\widctlpar\adjustright {  Tipo B  -   5 - Unidade  vaga  ou  ocupada  por  pessoas n\'e3o  abrangidas pela pesquisa.
+\par   Tipo C  -   6 - Unidade inexistente  -  Corresponde a unidade domiciliar   que  embora tendo  sido selecionada,  n\'e3o  mais representa local de habita\'e7\'e3o ou encontra-se fora dos limites do setor.
+\par }\pard \qj\fi-992\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  105 - M\'eas da pesquisa
+\par }\pard \qj\fi-425\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Representa o m\'eas de investiga\'e7\'e3o da pesquisa.
+\par }\pard \qj\fi-992\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  106 - Remessa
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Identifica os per\'edodos da pesquisa de acordo com a tabela \ldblquote Per\'edodos para a Pesquisa Mensal de Emprego\rdblquote , recebendo os c\'f3digos de 1 a 4 de acordo
+ com a semana de entrevista da pesquisa.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  107 - C\'f3digo do entrevistador
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Representa o c\'f3digo da pessoa que aplica ou mesmo que n\'e3o consegue aplicar os question\'e1rios, ainda que sua fun\'e7\'e3o na equipe n\'e3o seja a de entrevistador.
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  108 - Unidade adicional   }{
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Situa\'e7\'e3o n\'e3o investigada atualmente.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b Vari\'e1vel  109 - Total de pessoas
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{\b  }{Total de pessoas investigadas no domic\'edlio.}{\b  }{
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b 
+\par Vari\'e1vel  110 - Total de 10 anos ou mais de idade 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{\b  }{Total de pessoas de 10 anos ou mais de idade no domic\'edlio.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b Vari\'e1vel  111 - N\'famero de ordem do informante }{
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Representa o n\'famero de ordem do morador respons\'e1vel pelas informa\'e7\'f5es prestadas.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  112 - Esp\'e9cie do domic\'edlio }{
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Classifica o domic\'edlio em }{\i particular}{ ou }{\i coletivo.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b\fs20                  }{\fs20  2 - PARTICULAR
+\par                   4 - COLETIVO
+\par }{       }{\b Vari\'e1vel  113 - Altera\'e7\'e3o no PME 1.08
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Indica se existe ou n\'e3o altera\'e7\'e3o na Folha de Registro da Unidade Domiciliar - 
+\par }\pard \qj\sl360\slmult1\nowidctlpar\widctlpar\adjustright {PME 1.08.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20                    1 - TEM
+\par                    3 - N\'c3O TEM
+\par }{\b Vari\'e1vel  2 - Pasta
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Identifica\'e7\'e3o composta de 5 posi\'e7\'f5es onde as duas primeiras referem-se a UF (classifica\'e7\'e3o Censo) e as tr\'eas seguintes em numera\'e7\'e3o seq\'fcencial.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  3 - Situa\'e7\'e3o
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Caracteriza os setores da PME em urbanos ou rurais, de acordo com classifica\'e7\'e3o do Censo em:
+\par }{\fs20 1 a 3 - URBANO
+\par 4 a 8 - RURAL
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  2001 - Dia de refer\'eancia
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Refere-se ao dia da entrevista e \'e9 utilizada para c\'e1lculo da idade dos moradores.}{\b 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  2002 - M\'eas de refer\'eancia 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Refere-se ao m\'eas de realiza\'e7\'e3o da entrevista e \'e9 utilizada para c\'e1lculo da idade dos moradores.
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  201 - N\'famero de ordem 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Corresponde ao n\'famero de ordem do morador, sendo que a primeira pessoa a ser registrada \'e9 o chefe da Unidade Domiciliar.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b Vari\'e1vel  202 - Sexo}{
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20   1 -}{\i\caps\fs20  }{\caps\fs20 Homem 
+\par   3 - Mulher
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b Vari\'e1vel  203 - Condi\'e7\'e3o na Unidade Domiciliar
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Corresponde a rela\'e7\'e3o do morador com o chefe da Unidade Domiciliar.
+\par }{\caps\fs20    1 - Chefe
+\par    2 - C\'f4njuge
+\par    3 - Filho
+\par    4 - Outro parente
+\par }{\fs20    5 - AGREGADO
+\par    6 - PENSIONISTA
+\par    7 - EMPREGADO DOM\'c9STICO
+\par    8 - PARENTE DO EMPREGADO DOM\'c9STICO
+\par    9 - IGNORADO
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  204 - Condi\'e7\'e3o na fam\'edlia 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Corresponde a rela\'e7\'e3o do morador com o chefe da fam\'edlia.
+\par }{\fs20   }{\caps\fs20  1 - Chefe
+\par    2 - C\'f4njuge
+\par    3 - Filho
+\par    4 - Outro parente
+\par }{\fs20    5 - AGREGADO
+\par    6 - PENSIONISTA
+\par    7 - EMPREGADO DOM\'c9STICO
+\par    8 - PARENTE DO EMPREGADO DOM\'c9STICO
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b 
+\par  Vari\'e1vel  205 -  N\'famero da fam\'edlia
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Refere-se ao n\'famero da fam\'edlia a qual corresponde todos os membros da mesma fam\'edlia.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20             1 - FAM\'cdLIA PRINCIPAL OU \'daNICA
+\par             2 - PRIMEIRA  FAM\'cdLIA CONVIVENTE
+\par             3 - SEGUNDA FAM\'cdLIA CONVIVENTE e, assim sucessivamente.   
+\par }{       
+\par }{\b Vari\'e1vel  206 - Dia de nascimento}{ }{\b 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Refere-se ao dia de nascimento da pessoa.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {            C\'f3digos: 0 a 31 e 99 (ignorado)
+\par  
+\par }{\b Vari\'e1vel  236 - M\'eas de nascimento }{
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Refere-se ao m\'eas de nascimento da pessoa.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {            C\'f3digos: 01 a 12, 20 e 99 (ignorado)
+\par    
+\par }{\b Vari\'e1vel  246 - Ano de nascimento }{
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Refere-se ao ano de nascimento da pessoa.}{\b 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b            }{ Para os casos de idade estimada, s\'e3o adotados os seguintes crit\'e9rios:
+\par                  }{{\field{\*\fldinst SYMBOL 183 \\f "Symbol" \\s 12}{\fldrslt\f3\fs24}}}{\b  00}{ (dois zeros) na vari\'e1vel 206 - DIA;  
+\par                  }{{\field{\*\fldinst SYMBOL 183 \\f "Symbol" \\s 12}{\fldrslt\f3\fs24}}}{ }{\b 20}{ na vari\'e1vel 236 - M\'caS; e
+\par }\pard \fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {                 }{{\field{\*\fldinst SYMBOL 183 \\f "Symbol" \\s 12}{\fldrslt\f3\fs24}}}{ Na vari\'e1vel 246  a  idade  estimada com tr\'ea
+s algarismos,  sendo que  para  este caso, a idade estimada n\'e3o deve ser superior a 098, mesmo que a pessoa estime acima desta e 999 para ignorar. 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b                  
+\par Vari\'e1vel  207 - Sabe ler  e escrever
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Identifica se a pessoa \'e9 capaz de ler e escrever pelo menos um bilhete no idioma que conhece.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20              1 - SIM
+\par              3 - N\'c3O
+\par              9 - IGNORADO
+\par 
+\par 
+\par 
+\par 
+\par }{\b  Vari\'e1vel  208 - Freq\'fcenta escola
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Identifica se a pessoa freq\'fcentava escolas regulares, cursos de alfabetiza\'e7\'e3o de adultos, academias militares, pr\'e9
+-vestibulares, supletivos de primeiro e segundo grau, curso de mestrado ou doutorado e cursos pr\'e9-escolares ministrados em escolas maternais, jardim de inf\'e2ncia, classes de alfabetiza\'e7\'e3o ou institui\'e7\'f5es cong\'eaneres.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20               1 - SIM
+\par               3 - N\'c3O
+\par }\pard \qj\fi1418\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20 9 - IGNORADO 
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  209 - \'daltima s\'e9rie conclu\'edda
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Registro da \'faltima s\'e9rie ou ano conclu\'eddo, com aprova\'e7\'e3o, do curso de grau mais elevado.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {             Para as pessoas que conclu\'edram cursos, n\'e3o seriados, de p\'f3s-gradua\'e7\'e3o, mestrado ou doutorado; para pessoas que n\'e3o conclu\'edram pelo menos uma s\'e9
+rie do curso de 1}{\ul\super o}{ grau ou elementar; e para as pessoas que nunca freq\'fcentaram escola, o registro nessa vari\'e1vel \'e9  }{\b 0 (zero).}{
+\par              
+\par   }{\b Vari\'e1vel  210 - Grau}{
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Registro do grau correspondente \'e0 \'faltima s\'e9rie que a pessoa concluiu, de acordo com a denomina\'e7\'e3o vigente na \'e9poca.}{\b    
+\par }{\b\fs20   }{\fs20 0 - NUNCA FREQ\'dcENTOU
+\par   1 - ELEMENTAR
+\par   2 - M\'c9DIO 1}{\fs20\ul\super o}{\b\fs20  }{\caps\fs20 ciclo}{\fs20  
+\par   3 - 1}{\fs20\ul\super o}{\fs20   GRAU
+\par   4 - M\'c9DIO 2}{\fs20\ul\super o }{\fs20  CICLO
+\par   5 - 2}{\fs20\ul\super o}{\fs20   GRAU
+\par   6 - SUPERIOR
+\par   7 - MESTRADO OU DOUTORADO
+\par   9 - IGNORADO
+\par }{\b\fs20 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  211 - Concluiu o curso
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Refere-se a conclus\'e3o ou n\'e3o, de curso regular.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20             1 - SIM
+\par             3 - N\'c3O
+\par           9 - IGNORADO 
+\par 
+\par 
+\par }{\b Vari\'e1vel 301 - Que fez na semana
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Situa\'e7\'e3o do morador de 10 anos ou mais de idade na semana de refer\'eancia.  A investiga\'e7\'e3o \'e9 feita da seguinte forma:
+\par }{\caps\fs20        0 - Registro exclu\'eddo
+\par }\pard \qj\fi1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20 1 - Trabalhou
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {                       Pessoa que exerceu um trabalho (espor\'e1dico ou habitual) durante toda ou parte da semana de refer\'eancia.
+\par 
+\par }\pard \qj\fi1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20 2 - Tinha trabalho mas n\'e3o trabalhou
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {                    Pessoa que tinha trabalho mas, durante toda a semana de refer\'eancia,  n\'e3o trabalhou  por  motivo  de f\'e9rias,  licen\'e7a,  falta volunt\'e1
+ria ao  trabalho, greve,  doen\'e7a,  m\'e1s  condi\'e7\'e3o  do  tempo  ou  outro  impedimento  tempor\'e1rio, independentemente de sua vontade 
+\par }\pard \qj\sl360\slmult1\nowidctlpar\widctlpar\adjustright {(quebra de m\'e1quina, limita\'e7\'e3o de produ\'e7\'e3o,  etc.).
+\par }\pard \qj\fi1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\caps\fs20 3 - Procurou trabalho 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {                       Pessoa  que estava disposta a trabalhar, tendo, para isto, tomado alguma provid\'eancia efetiva na semana de refer\'eancia.
+\par 
+\par }\pard \qj\fi1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20 4 - Era aposentado ou pensionista
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {                    Pessoa que tinha rendimento proveniente de trabalho que exerceu anteriormente ( jubilado, reformado, aposentado, etc.), ou pessoa que recebia pens\'e3
+o de instituto, caixa de assist\'eancia social ou fundos de pens\'e3o, deixadas por pessoa da qual era benefici\'e1ria.  
+\par   
+\par }\pard \qj\fi1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20 5 - Era estudante
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {                       Pessoa que freq\'fcentava
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {{\field{\*\fldinst SYMBOL 183 \\f "Symbol" \\s 12}{\fldrslt\f3\fs24}}}{ escola regular cujos cursos sejam regulamentados pela lei do ensino e obede\'e7am a uma seria\'e7\'e3o:
+\par }{{\field{\*\fldinst SYMBOL 183 \\f "Symbol" \\s 12}{\fldrslt\f3\fs24}}}{ curso de alfabetiza\'e7\'e3o de adultos; ou
+\par }{{\field{\*\fldinst SYMBOL 183 \\f "Symbol" \\s 12}{\fldrslt\f3\fs24}}}{ curso pr\'e9-vestibular; ou
+\par }{{\field{\*\fldinst SYMBOL 183 \\f "Symbol" \\s 12}{\fldrslt\f3\fs24}}}{ supletivo de primeiro e segundo grau (inclusive atrav\'e9s de r\'e1dio e TV,  desde que a pessoa esteja participando ativamente); ou
+\par }{{\field{\*\fldinst SYMBOL 183 \\f "Symbol" \\s 12}{\fldrslt\f3\fs24}}}{ cursos de mestrado ou doutorado;
+\par }{{\field{\*\fldinst SYMBOL 183 \\f "Symbol" \\s 12}{\fldrslt\f3\fs24}}}{ academias militares.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }\pard \qj\fi1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20 6 - Cuidou dos afazeres dom\'e9sticos
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {                    Pessoa que somente se ocupava dos cuidados da casa onde morava, mesmo que estivesse doente ou ausente temporariamente. 
+\par         }{\b 
+\par }\pard \qj\fi1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20 7 - Outra
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {            Pessoa que n\'e3o se enquadre em nenhuma das situa\'e7\'f5es anteriormente relacionadas. 
+\par }{\fs20                    9 - IGNORADO
+\par 
+\par }{\b Vari\'e1vel  302 - Tinha outro trabalho na semana 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Apura se a pessoa tinha, na semana de refer\'eancia, mais de um trabalho, ainda que n\'e3o tenha trabalhado em qualquer um deles.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20 1 - SIM
+\par 3 - N\'c3O }{\caps\fs20 
+\par 9 -}{\fs20  }{\caps\fs20 ignorado
+\par }{
+\par }{\b Vari\'e1vel  303 - Ocupa\'e7\'e3o na semana
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Refere-se ao }{\b  }{cargo, fun\'e7\'e3o, profiss\'e3o ou of\'edcio exercido pela pessoa, n\'e3o devendo ser confundida com a forma\'e7\'e3o profissional. De acordo com a rela\'e7
+\'e3o de ocupa\'e7\'f5es e c\'f3digos abaixo.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }\pard \qc\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES
+\par 
+\par OCUPA\'c7\'d5ES ADMINISTRATIVAS
+\par 
+\par }\pard \qj\fi567\nowidctlpar\widctlpar\adjustright {\fs20 EMPREGADORES
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }{\b\fs20 001 - Agricultores
+\par 002 - Criadores de gado bovino
+\par 003 - Agricultores e criadores de pequenos animais
+\par 004 - Criadores de outros animais
+\par 005 - Propriet\'e1rios na agropecu\'e1ria, sem especifica\'e7\'e3o
+\par 006 - Empres\'e1rios da extra\'e7\'e3o vegetal e pesca
+\par 007 - Empres\'e1rios da extra\'e7\'e3o mineral
+\par 008 - Empres\'e1rios da ind\'fastria de transforma\'e7\'e3o
+\par 009 - Empres\'e1rios da constru\'e7\'e3o civil 
+\par 010 - Comerciantes
+\par 011 -  Hoteleiros e donos de pens\'e3o
+\par 012 - Empres\'e1rios nos transportes
+\par 013 - Vendedores ambulantes
+\par 014 - Feirantes
+\par 015 - Outros propriet\'e1rios
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qj\fi567\nowidctlpar\widctlpar\adjustright {\fs20 DIRETORES E CHEFES NA ADMINISTRA\'c7\'c3O P\'daBLICA}{\b\fs20 
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\fi-426\li426\nowidctlpar\widctlpar\adjustright {\b\fs20 020 - Ministros de Estado, Governadores, Prefeitos, Membros do Poder Legislativo e do Corpo    Diplom\'e1tico Nacional
+\par 
+\par 021 - Diretores, assessores e chefes no servi\'e7o p\'fablico
+\par 
+\par 
+\par }\pard \qj\fi141\li426\nowidctlpar\widctlpar\adjustright {\fs20 ADMINISTRADORES E GERENTES DE EMPRESAS
+\par }\pard \qj\fi-426\li426\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }{\b\fs20 030 - Administradores e gerentes na agropecu\'e1ria
+\par 031 - Administradores e gerentes na extra\'e7\'e3o vegetal e pesca
+\par 032 - Administradores e gerentes na extra\'e7\'e3o mineral
+\par 033 - Administradores e gerentes na ind\'fastria de transforma\'e7\'e3o
+\par 034 - Administradores e gerentes na ind\'fastria de constru\'e7\'e3o civil
+\par 035 - Administradores e gerentes no com\'e9rcio de mercadorias
+\par 036 - Administradores e gerentes de hot\'e9is e estabelecimentos similares
+\par 037 - Administradores e gerentes nos transportes
+\par 038 - Administradores e gerentes de empresas financeiras, imobili\'e1rias e securit\'e1rias
+\par 039 - Outros administradores e gerentes, n\'e3o classificados anteriormente
+\par 
+\par 
+\par }\pard \qj\fi141\li426\nowidctlpar\widctlpar\adjustright {\fs20 CHEFES E ENCARREGADOS DE SE\'c7\'c3O DE SERVI\'c7OS ADMINISTRATIVOS DE EMPRESAS
+\par }\pard \qj\fi-426\li426\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 040 - Chefes e encarregados de se\'e7\'e3o de servi\'e7os administrativos de empresas
+\par 
+\par 
+\par }\pard \qj\fi141\li426\nowidctlpar\widctlpar\adjustright {\fs20 FUN\'c7\'d5ES BUROCR\'c1TICAS OU DE ESCRIT\'d3RIO
+\par }\pard \qj\fi-426\li426\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 050 - T\'e9cnicos e fiscais de tributa\'e7\'e3o e arrecada\'e7\'e3o
+\par 051 - Inspetores do trabalho
+\par 052 - Assistentes administrativos
+\par 053 - Pagadores e caixa (exclusiva nos servi\'e7os e com\'e9rcio de mercadorias)
+\par 054 - Almoxarifes e armazenistas
+\par 055 - Expedidores e conferentes de materiais
+\par 056 - Datil\'f3grafos
+\par 057 - Operadores de teleimpressoras
+\par 058 - Operadores de m\'e1quinas de processamento autom\'e1tico de dados
+\par 059 - Secret\'e1rias
+\par 060 - Auxiliares de contabilidade
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\b\fs20 061 - Operadores de m\'e1quina copiadoras
+\par 062 - Arquivistas
+\par 063 - Recepcionistas
+\par 064 - Auxiliares administrativos e de escrit\'f3rio
+\par }\pard \qj\fi-426\li426\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qc\fi-426\li426\nowidctlpar\widctlpar\adjustright {\b\fs20     }{\fs20 OCUPA\'c7\'d5ES T\'c9CNICAS, CIENT\'cdFICAS, ART\'cdSTICAS E ASSEMELHADAS
+\par }\pard \qc\li426\nowidctlpar\widctlpar\adjustright {\fs20  
+\par }\pard \qj\fi-426\li426\nowidctlpar\widctlpar\adjustright {\fs20            
+\par }\pard \qj\fi-567\li567\nowidctlpar\widctlpar\adjustright {\fs20           }{\b\fs20  }{\fs20 ENGENHEIROS, ARQUITETOS E ESPECIALISTAS ASSEMELHADOS
+\par 
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\b\fs20 101 - Engenheiros
+\par 101 - Arquitetos
+\par 103 - Agrimensores
+\par 104 - Cart\'f3grafos
+\par }\pard \qj\fi-567\li567\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \li567\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES AUXILIARES DA ENGENHARIA E ARQUITETURA 
+\par }\pard \qj\fi-426\li426\nowidctlpar\widctlpar\adjustright {\b\fs20 111 - Desenhistas
+\par 112 - T\'e9cnicos de edifica\'e7\'f5es, agrimensura, estradas e saneamento
+\par 113 - Outras ocupa\'e7\'f5es auxiliares da engenharia e arquitetura
+\par            }{\fs20 QU\'cdMICOS, FARMAC\'caUTICOS, F\'cdSICOS E ESPECIALISTAS ASSEMELHADOS
+\par             
+\par }{\b\fs20 121 - Qu\'edmicos
+\par 122 - Farmac\'eauticos
+\par 123 - F\'edsicos
+\par 124 - Ge\'f3logos e mineralogistas
+\par 125 - Outros especialistas em qu\'edmica e f\'edsica 
+\par  
+\par }\pard \fi-426\li426\nowidctlpar\widctlpar\adjustright {\b\fs20            }{\fs20  OCUPA\'c7\'d5ES AUXILIARES DA QU\'cdMICA, FARM\'c1CIA E F\'cdSICA              
+\par }\pard \qj\fi-426\li426\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }{\b\fs20 131 - T\'e9cnicos qu\'edmicos
+\par 132 - Pr\'e1ticos de farm\'e1cia
+\par 133 - T\'e9cnicos de meteorologia
+\par 
+\par             }{\fs20 AGR\'d4NOMOS, BIOLOGISTAS, VETERIN\'c1RIOS E ESPECIALISTAS ASSEMELHADOS
+\par }\pard \qj\li426\nowidctlpar\widctlpar\adjustright {\b\fs20                    
+\par }\pard \qj\fi-567\li567\nowidctlpar\widctlpar\adjustright {\b\fs20 141 - Agr\'f4nomos
+\par 142 - Biologistas
+\par 143 - Farmacologistas
+\par 144 - Veterin\'e1rios
+\par 
+\par 
+\par            }{\fs20 M\'c9DICOS, DENTISTAS E ESPECIALISTAS ASSEMELHADOS  
+\par 
+\par }{\b\fs20 151 - M\'e9dicos
+\par 152 - Dentistas
+\par 153 - Enfermeiros diplomados
+\par 154 - Outros especialistas em medicina
+\par 
+\par 
+\par 
+\par }\pard \fi-567\li567\nowidctlpar\widctlpar\adjustright {\b\fs20           }{\fs20  OCUPA\'c7\'d5ES AUXILIARES DA MEDICINA E ODONTOLOGIA
+\par }\pard \qj\fi-567\li567\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\b\fs20 161 - Acad\'eamicos de hospital
+\par 162 - Enfermeiros n\'e3o diplomados
+\par 163 - Massagistas
+\par 164 - Ortopedistas e \'f3ticos
+\par 165 - Operadores de equipamentos m\'e9dicos e odontol\'f3gicos
+\par 166 - Parteiras
+\par 167 - Prot\'e9ticos
+\par 168 - T\'e9cnicos em an\'e1lises cl\'ednicas
+\par 
+\par }\pard \qj\fi-567\li567\nowidctlpar\widctlpar\adjustright {\fs20            MATEM\'c1TICOS, ESTAT\'cdSTICOS E ANALISTAS DA SISTEMAS  }{\b\fs20 
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 171 - Matem\'e1ticos e atu\'e1rios
+\par 172 - Estat\'edsticos
+\par 173 - Analistas de sistemas
+\par 
+\par 
+\par }{\fs20            ECONOMISTAS, CONTADORES E T\'c9CNICOS DE ADMINISTRA\'c7\'c3O
+\par }\pard \qj\li567\nowidctlpar\widctlpar\adjustright {\fs20   
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\b\fs20 181 - Economistas
+\par 182 - Contadores
+\par 183 - T\'e9cnicos da administra\'e7\'e3o
+\par 
+\par 
+\par }\pard \qc\fi142\li-142\nowidctlpar\widctlpar\adjustright {\fs20           OCUPA\'c7\'d5ES AUXILIARES DA CONTABILIDADE, ESTAT\'cdSTICA E AN\'c1LISE DE SISTEMA           
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\b\fs22 
+\par }{\b\fs20 191 - T\'e9cnicos de contabilidade
+\par 192 - T\'e9cnicos de estat\'edsticas
+\par 193 - Agentes censit\'e1rios, recenseadores
+\par 194 - Programadores de computador
+\par 
+\par }{\fs20            CIENTISTAS SOCIAIS 
+\par 
+\par }{\b\fs20 201 - Soci\'f3logos, antrop\'f3logos e arque\'f3logos
+\par 202 - Psic\'f3logos
+\par 203 - Ge\'f3grafos e dem\'f3grafos
+\par 204 - Assistentes Sociais
+\par 205 - Outros cientistas sociais
+\par 
+\par 
+\par }{\fs20           PROFESSORES
+\par 
+\par }{\b\fs20 211 - Professores pesquisadores
+\par 212 - Professores de ensino superior
+\par 213 - Professores de ensino de 2}{\b\fs20\super o}{\b\fs20  grau
+\par 214 - Professores de ensino do 1}{\b\fs20\super o}{\b\fs20  grau ( 5}{\b\fs20\super a}{\b\fs20   \'e0  8}{\b\fs20\super a }{\b\fs20  s\'e9rie )
+\par 215 - Professores de ensino do 1}{\b\fs20\super o }{\b\fs20 grau ( 1}{\b\fs20\super a }{\b\fs20  \'e0  4}{\b\fs20\super a}{\b\fs20   s\'e9rie )
+\par 216 - Professores de ensino do 1}{\b\fs20\super o}{\b\fs20  grau ( sem especifica\'e7\'e3o de s\'e9rie )
+\par 217 - Professores de ensino pr\'e9-escolar
+\par 218 - Professores de ensino n\'e3o especificado
+\par 219 - Professores de ensino n\'e3o especificado
+\par 
+\par }{\fs20 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs20             OCUPA\'c7\'d5ES AUXILIARES DO ENSINO
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }{\b\fs20 221 - Orientadores e t\'e9cnicos de ensino
+\par 222 - Inspetores de alunos
+\par 
+\par 
+\par 
+\par }\pard \qj\fi-567\li567\nowidctlpar\widctlpar\adjustright {\fs20            MAGISTRADOS, ADVOGADOS E ESPECIALISTAS ASSEMELHADOS
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 231 - Magistrados
+\par 232 - Procuradores, promotores e curadores p\'fablicos
+\par 233 - Advogados e defensores p\'fablicos
+\par 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs20            OCUPA\'c7\'d5ES AUXILIARES DA JUSTI\'c7A}{\b\fs20 
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 241 - Tabeli\'e3es e oficiais de registro
+\par 242 - Escriv\'e3es de cart\'f3rio
+\par 243 - Oficiais de justi\'e7a
+\par 244 - Outras ocupa\'e7\'f5es auxiliares da justi\'e7a
+\par 
+\par           }{\fs20   RELIGIOSOS    
+\par 
+\par }{\b\fs20 251 - Sacerdotes
+\par }\pard \qj\fi-567\li567\nowidctlpar\widctlpar\adjustright {\b\fs20 252 - Religiosos por conta pr\'f3pria
+\par             
+\par 
+\par           }{\fs20  ESCRITORES E JORNALISTAS
+\par 
+\par }{\b\fs20 261 - Escritores e jornalistas
+\par 
+\par 
+\par            }{\fs20 ARTISTAS, OCUPA\'c7\'d5ES AFINS E AUXILIARES    
+\par }\pard \qj\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }{\b\fs20 271 - Escultores e pintores
+\par 272 - Artes\'e3os de objetos de cer\'e2mica, couro, madeira e metal
+\par 273 - Decoradores e cen\'f3grafos
+\par 274 - Fot\'f3grafos
+\par 275 - M\'fasicos e compositores
+\par 276 - Artistas de cinema, teatro, r\'e1dio e televis\'e3o
+\par 277 - Artistas de circo
+\par 278 - Locutores e comentaristas
+\par 279 - Produtores e diretores de espet\'e1culos
+\par 280 - Cinegrafistas e operadores de c\'e2meras
+\par 281 - Operadores de equipamentos de som e cenografia
+\par }\pard \qj\fi-567\li567\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 282 - Outros operadores de esta\'e7\'f5es de r\'e1dio e televis\'e3o, exclusive operadores de c\'e2mera, som e cenografia
+\par }\pard \qj\fi-993\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 283 - Operadores de projetores cinematogr\'e1ficos
+\par }\pard \qj\fi-567\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par 
+\par }\pard \fi-567\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\fs20 OUTRAS OCUPA\'c7\'d5ES T\'c9CNICAS, CIENT\'cdFICAS E ASSEMELHADAS
+\par }\pard \qj\fi-567\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\fs20 
+\par }\pard \qj\fi-993\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 291 - Bibliotec\'e1rios
+\par 292 - Arquivologistas e muse\'f3logos
+\par 293 - Outras ocupa\'e7\'f5es t\'e9cnicas e cient\'edficas n\'e3o enquadradas anteriormente
+\par }\pard \qj\fi-567\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par 
+\par 
+\par }\pard \qc\fi-567\li993\ri-845\nowidctlpar\widctlpar\tx426\adjustright {\fs20 OCUPA\'c7\'d5ES DA AGROPECU\'c1RIA E DA PRODU\'c7\'c3O EXTRATIVA VEGETAL E ANIMAL
+\par }\pard \qc\fi-567\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\fs20 
+\par 
+\par }\pard \qj\fi-567\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\fs20 TRABALHADORES DA AGROPECU\'c1RIA
+\par 
+\par }\pard \qj\fi-851\li851\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 301 - Produtores agropecu\'e1rios aut\'f4nomos
+\par }\pard \qj\fi-993\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 302 - T\'e9cnicos de agropecu\'e1ria
+\par 303 - Tratoristas agr\'edcolas e outros operadores da m\'e1quinas e implementos de agropecu\'e1ria
+\par 304 - Outros trabalhadores na agropecu\'e1ria
+\par 305 - Trabalhadores na aquicultura
+\par }\pard \qj\fi-567\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par 
+\par }{\fs20 CA\'c7ADORES E PESCADORES
+\par }{\b\fs20 
+\par }\pard \qj\fi-993\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 321 - Ca\'e7adores
+\par 322 - Pescadores
+\par }\pard \qj\fi-567\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par 
+\par }{\fs20 TRABALHADORES FLORESTAIS}{\b\fs20 
+\par 
+\par }\pard \qj\fi-993\li993\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 331 - Madeireiros
+\par 332 - Lenhadores
+\par 333 - Carvoeiros ( fabricantes )
+\par 334 - Seringueiros
+\par 335 - Ervateiros
+\par 336 - Apanhadores, quebradores e descascadores de produtos vegetais
+\par 
+\par 
+\par }\pard \qc\fi-426\li284\ri573\nowidctlpar\widctlpar\tx426\adjustright {\fs20 OCUPA\'c7\'d5ES DA PRODU\'c7\'c3O EXTRATIVA MINERAL
+\par }{\b\fs20 
+\par }\pard \qj\fi-426\li284\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par }\pard \qj\fi-426\li284\ri573\nowidctlpar\widctlpar\tx567\adjustright {\fs20              MINEIROS
+\par }\pard \qj\fi-426\li284\ri573\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par 341 - Mineiros
+\par 
+\par 
+\par 
+\par }{\fs20              CANTEIROS E MARROEIROS
+\par 
+\par }{\b\fs20 345 - Canteiros e Marroeiros
+\par 
+\par 
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20              OPERADORES DE M\'c1QUINAS  DE EXTRA\'c7\'c3O E BENEFICIAMENTO DE MIN\'c9RIOS E PEDRAS
+\par 
+\par }{\b\fs20 351 - Operadores de m\'e1quinas de extra\'e7\'e3o e beneficiamento de min\'e9rios e pedras
+\par 
+\par 
+\par }{\fs20              TRABALHADORES DE EXTRA\'c7\'c3O DE PETR\'d3LEO E G\'c1S
+\par 
+\par }{\b\fs20 361 - Trabalhadores de extra\'e7\'e3o de petr\'f3leo e g\'e1s
+\par 
+\par 
+\par }\pard \qj\fi283\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20 GARIMPEIROS
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20 
+\par }{\b\fs20 371- Garimpeiros
+\par 
+\par 
+\par }\pard \qj\fi283\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20 SALINEIROS
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20 
+\par }{\b\fs20 381- Salineiros
+\par 
+\par }\pard \qj\fi283\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20 SONDADORES DE PO\'c7OS, EXCLUSIVE DE PETR\'d3LEO E G\'c1S }{\b\fs20 
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par 391 - Sondadores de po\'e7os, exclusive de petr\'f3leo e g\'e1s
+\par 
+\par 
+\par }\pard \qc\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20 OCUPA\'c7\'d5ES DAS IND\'daSTRIAS DE TRANSFORMA\'c7\'c3O E CONSTRU\'c7\'c3O CIVIL
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20 
+\par }\pard \qj\li567\ri998\nowidctlpar\widctlpar\tx567\adjustright {\fs20 MESTRES, CONTRAMESTRES E T\'c9CNICOS DE IND\'daSTRIAS DE TRANSFORMA\'c7\'c3O E CONSTRU\'c7\'c3O CIVIL
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par 401 - Mestres e t\'e9cnicos de empresas de extra\'e7\'e3o mineral
+\par 402 - Mestres, contramestres e t\'e9cnicos de ind\'fastrias de transforma\'e7\'e3o, exclusive t\'eaxteis
+\par 403 - Mestres, contramestres e t\'e9cnicos de ind\'fastria t\'eaxteis
+\par 404 - Mestres de constru\'e7\'e3o civil
+\par 405 - Mestres e t\'e9cnicos de empresas de energia el\'e9trica, g\'e1s, \'e1gua e esgoto
+\par 406 - Outros mestres, contramestres e t\'e9cnicos
+\par 
+\par 
+\par }\pard \fi283\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20 OCUPA\'c7\'d5ES DAS IND\'daSTRIAS MEC\'c2NICAS E METAL\'daRGICAS
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par 411 - Forneiros metal\'fargicos
+\par 412 - Laminadores
+\par 413 - Trefiladores
+\par 414 - Modeladores e macheiros
+\par 415 - Galvanizadores e recobridores de metais
+\par 416 - Afiadores e amoladores
+\par 417 - Polidores e esmerilhadores
+\par 418 - Ferramenteiros
+\par 419 - Estampadores mec\'e2nicos
+\par 420 - Operadores de prensa mec\'e2nica de metais
+\par }\pard \qj\fi-1135\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 421 - Fresadores e furadores
+\par 422 - Torneiros mec\'e2nicos
+\par 423 - Ajustadores e montadores mec\'e2nicos
+\par 424 - Mec\'e2nicos de ve\'edculos automotores
+\par 425 - Mec\'e2nicos sem especifica\'e7\'e3o
+\par 426 - Soldadores
+\par 427 - Rebitadores e montadores de estruturas met\'e1licas
+\par 428 - Caldeireiros
+\par 429 - Ferreiros e serralheiros
+\par 430 - Funileiros
+\par 431 - Lanterneiros de ve\'edculos
+\par 
+\par }\pard \fi-426\li993\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DA IND\'daSTRIA T\'caXTIL }{\b\fs20 
+\par }\pard \qj\fi-426\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\fi-1135\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 441 - Cardadores e penteadores
+\par 442 - Ma\'e7aroqueiros, bobinadores e espuladores
+\par 443 - Fiandeiros
+\par 444 - Rendeiros
+\par 445 - Urdidores e remetedores
+\par 446 - Cordoeiros
+\par 447 - Tecel\'f5es
+\par 448 - Tapeceiros
+\par 449 - Redeiros
+\par 450 - Alvejadores e tintureiros t\'eaxteis
+\par 451 - Estampadores t\'eaxteis
+\par 452 - Acabadores de pano
+\par }\pard \qj\fi-426\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }{\fs20 
+\par }\pard \fi-426\li993\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DA IND\'daSTRIA DO COURO
+\par }\pard \qj\fi-426\li993\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 461 - Correeiros e seleiros
+\par 462 -  Curtidores
+\par 
+\par 
+\par              }{\fs20 OCUPA\'c7\'d5ES DA IND\'daSTRIA DO VESTU\'c1RIO
+\par 
+\par }{\b\fs20 470 - Alfaiates costureiros
+\par 471 - Auxiliares de costura
+\par 472 - Calceiros e camiseiros
+\par 473 - Modelistas e cortadores
+\par 474 - Bordadeiras e cerzideiras
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx0\adjustright {\b\fs20 475 - Chapeleiros de palha
+\par 476 - Chapeleiros, exclusive de palha
+\par 477 - Sapateiros
+\par 478 - Trabalhadores na fabrica\'e7\'e3o de cal\'e7ados
+\par 479 -  Bolseiros e cinteiros
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\b\fs20 
+\par }\pard \fi-709\li567\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20              }{\fs20    OCUPA\'c7\'d5ES DAS IND\'daSTRIAS DE MADEIRA E M\'d3VEIS              
+\par }\pard \qj\fi-426\li284\ri-420\nowidctlpar\widctlpar\tx426\adjustright {\fs20 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 481 - Marceneiros
+\par 482 - Carpinteiros
+\par 483 - Tanoeiros
+\par 484 - Operadores de m\'e1quinas de marcenaria
+\par 485 - Serradores
+\par 486 - Preparadores de compensados e aglomerados
+\par 487 - Estofadores e capoteiros
+\par 488 - Colchoeiros
+\par 489 - Lustradores de madeira
+\par 490 - cesteiros e esteireiros
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 
+\par 
+\par }{\fs20 ELETRICISTAS
+\par 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 501 -  Montadores de equipamentos el\'e9tricos
+\par 502 -  Montadores de equipamentos eletr\'f4nicos ( exceto r\'e1dio e TV )
+\par 503 - Reparadores de equipamentos el\'e9tricos e eletr\'f4nicos ( exceto r\'e1dio e TV )
+\par 504 - Montadores de r\'e1dio e TV
+\par 505 - Reparadores de r\'e1dio e TV
+\par 506 - Eletricistas de instala\'e7\'f5es
+\par 507 - Instaladores e reparadores de equipamentos e aparelhos de telecomunica\'e7\'e3o
+\par 508 - Instaladores e reparadores de linhas el\'e9tricas e de telecomunica\'e7\'e3o
+\par 509 - Operadores de instala\'e7\'f5es de produ\'e7\'e3o de energia el\'e9trica
+\par 
+\par }\pard \li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\fs20 OCUPA\'c7\'d5ES DA IND\'daSTRIA DA CONSTRU\'c7\'c3O CIVIL 
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\fs20 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 511 - Armadores de concreto
+\par 512 - Pedreiros
+\par 513 - Serventes de pedreiro
+\par 514 - Pintores e caiadores
+\par 515 - Estucadores
+\par 516 - Ladrilheiros e taqueiros
+\par 517 - Encanadores
+\par 518 - Vidraceiros ( colocadores de vidro )
+\par 519 - Calceteiros e asfaltadores
+\par 520 - Calafates
+\par 521 - Operadores de m\'e1quinas de constru\'e7\'e3o civil e tratoristas, exclusive na agropecu\'e1ria
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 
+\par 
+\par }\pard \li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\fs20 OCUPA\'c7\'d5ES DAS IND\'daSTRIAS DE ALIMENTA\'c7\'c3O E BEBIDAS
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\fs20                   
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 531 - Ling\'fciceiros e salsicheiros
+\par 532 - Charqueadores
+\par 533 - Magarefes
+\par 534 - Ocupa\'e7\'f5es da ind\'fastria de latic\'ednios
+\par 535 - Doceiros e confeiteiros
+\par 536 - Macarroneiros e pasteleiros
+\par 537 - Padeiros
+\par 538 - Farinheiros e moleiros
+\par 539 - Ocupa\'e7\'f5es da ind\'fastria do a\'e7\'facar
+\par 540 - Ocupa\'e7\'f5es da ind\'fastria de bebidas
+\par 541 - Ocupa\'e7\'f5es da ind\'fastria do caf\'e9
+\par }\pard \qj\fi142\li-142\ri-420\nowidctlpar\widctlpar\tx-142\adjustright {\b\fs20 542 - Ocupa\'e7\'f5es da ind\'fastria do pescado
+\par 543 - Ocupa\'e7\'f5es da ind\'fastria do ch\'e1, mate e cacau
+\par 544 - Ocupa\'e7\'f5es da ind\'fastria de oleaginosos
+\par 545 - Ocupa\'e7\'f5es de outras ind\'fastrias alimentares
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 
+\par }\pard \li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\fs20 OCUPA\'c7\'d5ES DA IND\'daSTRIA GR\'c1FICA }{\b\fs20 
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 551 - Linotipistas
+\par 552 - Tip\'f3grafos
+\par 553 - Clicheristas e gravadores
+\par 554 - Impressores
+\par 555 - Revisores na ind\'fastria gr\'e1fica
+\par 556 - Encadernadores e cartonadores
+\par 557 - Outras ocupa\'e7\'f5es da ind\'fastria gr\'e1fica
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\b\fs20 
+\par 
+\par }\pard \li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\fs20 OCUPA\'c7\'d5ES DAS IND\'daSTRIAS DE CER\'c2MICA E VIDRO
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\tx709\adjustright {\fs20 
+\par }{\b\fs20 561 - Vidreiros e ampoleiros
+\par 562 - Ceramistas e louceiros
+\par 563 - Pintores cer\'e2micos
+\par 564 - Oleiros
+\par 
+\par }\pard \fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OUTRAS OCUPA\'c7\'d5ES DAS IND\'daSTRIAS DE TRANSFORMA\'c7\'c3O}{\b\fs20 
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 571 - Inspetores de qualidade
+\par 572 - Ourives e relojoeiros
+\par 573 - Lapidadores
+\par 574 - Borracheiros
+\par 575 - Vulcanizadores e recauchutadores
+\par 576 - Fogueteiros
+\par 577 - Vassoureiros
+\par 578 - Marmoristas
+\par 579 - Preparadores de fumo
+\par 580 - Charuteiros e cigarreiros
+\par 581 - Pintores a pistola
+\par 582 - Operadores de empilhadeira
+\par 583 - Foguista ( exclusive de embarca\'e7\'f5es e de trens )
+\par 584 - Embaladores de mercadorias
+\par 585 - Ocupa\'e7\'f5es da ind\'fastria do papel e papel\'e3o
+\par 586 - Ocupa\'e7\'f5es da ind\'fastria de artefatos de borracha e pl\'e1stico ( exclusive pneum\'e1ticos )
+\par 587 - Ocupa\'e7\'f5es da ind\'fastria de artefatos de cimento e fibrocimento
+\par 588 - Supervisores da seguran\'e7a no trabalho 
+\par 589 - Outras ocupa\'e7\'f5es das ind\'fastrias de transforma\'e7\'e3o
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qc\li709\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DO COM\'c9RCIO E ATIVIDADES AUXILIARES
+\par }\pard \qc\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 LOJISTAS
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 601 - Comerciantes por conta pr\'f3pria
+\par 602 - Vendedores
+\par 603 - Operadores da caixa
+\par 604 - Repositores de mercadorias
+\par 605 - Demonstradores
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qj\fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 VENDEDORES AMBULANTES}{\b\fs20 
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 611 - Feirantes
+\par 612 - Aguadeiros
+\par 613 - Doceiros, sorveteiros e baleiros
+\par 614 - Quitandeiros e fruteiros
+\par 615 - Tripeiros, peixeiros e leiteiros
+\par 616 - Bilheteiros
+\par 617 - Outras ocupa\'e7\'f5es no com\'e9rcio ambulante
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qj\fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 VENDEDORES DE JORNAIS E REVISTAS
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\fi-1134\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 621 - Vendedores de jornais e revistas
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qj\fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 VIAJANTES, REPRESENTANTES E PRACISTAS
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi-1134\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 631 - Pracistas e viajantes comerciais
+\par 632 - Representantes comerciais
+\par 633 - Propagandistas
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par 
+\par 
+\par }\pard \fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OUTRAS OCUPA\'c7\'d5ES DO COM\'c9RCIO}{\b\fs20 
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 641 - Corretores de seguros
+\par 642 - Corretores de im\'f3veis
+\par 643 - Corretores de t\'edtulos e valores
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 644 - Avaliadores e leiloeiros
+\par 645 - Outros agentes e corretores
+\par 646 - Compradores
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \li709\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DOS TRANSPORTES MAR\'cdTIMO, FLUVIAL E LACUSTRE
+\par }\pard \qc\li709\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par OCUPA\'c7\'d5ES DO TRANSPORTE A\'c9REO
+\par 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 711 - Aviadores civis
+\par 712 - Comiss\'e1rios de bordo
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 OCUPA\'c7\'d5ES DOS TRANSPORTES MAR\'cdTIMO, FLUVIAL E LACUSTRE
+\par 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 721 - Oficiais de Marinha Mercante
+\par 722 - Mestres de embarca\'e7\'e3o
+\par 723 - Maquinistas de embarca\'e7\'e3o
+\par 724 - Foguistas de embarca\'e7\'e3o
+\par 725 - Marinheiros civis
+\par 726 - Taifeiros
+\par 727 - Barqueiros e canoeiros
+\par 
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }{\fs20 OCUPA\'c7\'d5ES DOS SERVI\'c7OS PORTU\'c1RIOS
+\par 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 731 - Guindasteiros
+\par 732 - Estivadores
+\par 
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DOS TRANSPORTES FERROVI\'c1RIOS
+\par 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 741 - Agentes de estradas de ferro
+\par 742 - Condutores e chefes de trem
+\par 743 - Maquinistas de trem
+\par 744 - Foguistas de trem
+\par 745 - Guarda-freios
+\par 746 - Manobreiros e sinaleiros
+\par 
+\par 
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DOS TRANSPORTES URBANOS E RODOVI\'c1RIOS 
+\par }{\b\fs20 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 751 - Motoristas
+\par 752 - Trocadores
+\par 753 - Carroceiros e tropeiros
+\par 
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }{\fs20 OUTRAS  OCUPA\'c7\'d5ES DOS TRANSPORTES 
+\par 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 761 - Inspetores e despachantes dos transportes
+\par 762 - Trabalhadores de conserva\'e7\'e3o de ferrovias
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par 
+\par }{\fs20 OCUPA\'c7\'d5ES DAS COMUNICA\'c7\'d5ES
+\par 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 771 - Agentes postais e telegr\'e1ficos
+\par 772 - Postalistas
+\par 773 - Telegrafistas e radiotelegrafistas
+\par 774 - Telefonistas
+\par 775 - Carteiros
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qc\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DA PRESTA\'c7\'c3O DE SERVI\'c7O
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DOM\'c9STICAS REMUNERADAS
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }{\b\fs20 801 - Arrumadeiras
+\par 802 - Bab\'e1s
+\par 803 - Cozinheiras
+\par 804 - Faxineiras
+\par 805 - Lavadeiras
+\par 806 - Governantas e mordomos
+\par 807 - Empregadas dom\'e9sticas n\'e3o especializadas
+\par 808 - Outras ocupa\'e7\'f5es dos servi\'e7os dom\'e9sticos
+\par 
+\par }\pard \qj\fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DOS SERVI\'c7OS DE ALOJAMENTO E ALIMENTA\'c7\'c3O 
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 811 - Hoteleiros e donos de pens\'e3o por conta pr\'f3pria
+\par 812 - Camareiros ( exclusive no servi\'e7o dom\'e9stico )
+\par 813 - Cozinheiros ( exclusive no servi\'e7o dom\'e9stico )
+\par 814 - Gar\'e7ons
+\par 815 - Atendentes de bar e lanchonete
+\par 816 - Governantas e mordomos ( exclusive no servi\'e7o dom\'e9stico )
+\par 817 - Maitre de hotel
+\par 818 - Maitre no servi\'e7o da alimenta\'e7\'e3o
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qj\fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 OCUPA\'c7\'d5ES DOS SERVI\'c7OS DE HIGIENE PESSOAL 
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 821 - Cabeleireiros
+\par 822 - Barbeiros
+\par 823 - Maquiladores, depiladores e esteticistas
+\par 824 - Manicuras e pedicuros
+\par 825 - Lavadeiras e passadeiras
+\par 826 - Engraxates
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qj\fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 ATLETAS PROFISSIONAIS E FUN\'c7\'d5ES AFINS
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 831 - Jogadores de futebol
+\par 832 - Lutadores e outros atletas profissionais
+\par 833 - Juizes de esportes
+\par 834 - T\'e9cnicos de esportes
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qj\fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 PORTEIROS, ASCENSORISTAS, VIGIAS E SERVENTES
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 841 - Porteiros
+\par 842 - Ascensoristas
+\par 843 - Vigias
+\par 844 - Serventes
+\par 845 - Cont\'ednuos
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qj\fi-567\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 PROPRIET\'c1RIOS NOS SERVI\'c7OS, CONTA PR\'d3PRIA, N\'c3O CLASSIFICADOS ANTERIORMENTE
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\tx1560\tx1701\adjustright {\fs20 
+\par }\pard \qj\fi-1276\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 851 - Propriet\'e1rios nos servi\'e7os agropecu\'e1rios, conta pr\'f3pria, n\'e3o classificados anteriormente
+\par 852    -   Propriet\'e1rios nos servi\'e7os, conta pr\'f3pria, n\'e3o classificados anteriormente
+\par }\pard \qj\li1276\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par  
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20  }{\fs20 OCUPA\'c7\'d5ES DA DEFESA NACIONAL E SEGURAN\'c7A P\'daBLICA
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }{\b\fs20 861 - Oficiais das For\'e7as Armadas
+\par 862 - Pra\'e7as das For\'e7as Armadas
+\par 863 - Oficiais e pra\'e7as do Corpo de Bombeiros
+\par 864 - Delegados e comiss\'e1rios de pol\'edcia
+\par 865 - Investigadores de pol\'edcia
+\par 866 - Guarda-civis e inspetores de tr\'e1fego
+\par 867 - Carcereiros e guardas de pres\'eddio
+\par 868 - Datiloscopistas
+\par 869 - Guardas ou vigias de organiza\'e7\'f5es particulares
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 OUTRAS OCUPA\'c7\'d5ES, OCUPA\'c7\'d5ES MAL DEFINIDAS OU N\'c3O DECLARADAS }{\b\fs20 
+\par 
+\par }\pard \qj\fi-709\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 911 - Aprendizes
+\par 912 - Bilheteiros no servi\'e7o de divers\'f5es
+\par 913 - Bombeiros, exclusive do Corpo de Bombeiros
+\par 914 - Capatazes
+\par 915 - Dedetizadores
+\par 916 - Guardadores de autom\'f3veis
+\par 917 - Guardas sanit\'e1rios
+\par 918 - Inspetores e fiscais
+\par 919 - Jardineiros, exclusive na lavoura
+\par 920 - Lixeiros
+\par 921 - Lubrificadores
+\par 922 - Operadores de tratamento e bombeamento d\rquote \'e1gua
+\par 923 - Operadores de m\'e1quinas ( exclusive de agropecu\'e1ria e constru\'e7\'e3o civil )
+\par 924 - Trabalhadores bra\'e7ais sem especifica\'e7\'e3o
+\par 925 - Trabalhadores de conserva\'e7\'e3o de rodovias
+\par 926 - Ocupa\'e7\'f5es de cuidados pessoais ( exclusive no servi\'e7o dom\'e9stico e no ensino )
+\par 927 - Outras ocupa\'e7\'f5es mal definidas
+\par 928 - Em branco /  Sem declara\'e7\'e3o de ocupa\'e7\'e3o
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b Vari\'e1vel  304 - Atividade / Ramo do neg\'f3cio
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Especifica\'e7\'e3o da classe desenvolvida no estabelecimento, institui\'e7\'e3o ou outro local em que o entrevistado exerceu a  ocupa\'e7\'e3o. De acordo com a rela\'e7\'e3
+o de classes de atividades e c\'f3digos abaixo.
+\par }\pard \qj\li709\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qc\li993\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 RAMOS E CLASSES DE ATIVIDADES
+\par 
+\par 
+\par 1.   IND\'daSTRIA DE TRANSFORMA\'c7\'c3O
+\par }\pard \qj\li993\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par EXTRA\'c7\'c3O MINERAL
+\par 
+\par }\pard \qj\fi-993\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 050 - Extra\'e7\'e3o e aparelhamento de pedras e outros materiais de constru\'e7\'e3o
+\par 051 - Extra\'e7\'e3o de petr\'f3leo e g\'e1s natural
+\par 052 - Extra\'e7\'e3o de carv\'e3o de pedra
+\par 053 - Explora\'e7\'e3o de salinas e fontes hidrominerais
+\par 054 - Faisca\'e7\'e3o e garimpagem de minerais n\'e3o met\'e1licos
+\par 055 - Faisca\'e7\'e3o e garimpagem de minerais met\'e1licos
+\par 056 - Extra\'e7\'e3o de minerais radioativos
+\par 057 - Extra\'e7\'e3o de minerais n\'e3o met\'e1licos ( exceto os compreendidos em outras classes )
+\par 058 - Extra\'e7\'e3o de minerais met\'e1licos ( exceto os compreendidos em outras classes )
+\par 059 - Outras extra\'e7\'f5es minerais n\'e3o compreendidos nas classes anteriores ou mal definidas
+\par }\pard \qj\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 IND\'daSTRIA DE TRANSFORMA\'c7\'c3O }{\b\fs20 
+\par 
+\par }\pard \qj\fi-993\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 100 - Ind\'fastrias de transforma\'e7\'e3o de minerais n\'e3o met\'e1licos ( exclusive combust\'edveis minerais )
+\par 110 - Ind\'fastrias metal\'fargicas
+\par 120 - Ind\'fastrias mec\'e2nicas
+\par 130 - Ind\'fastrias de material el\'e9trico e de comunica\'e7\'e3o
+\par 140 - Ind\'fastrias de material de transporte
+\par 150 - Ind\'fastrias da madeira
+\par 151 - Ind\'fastrias domiciliares de artigos de palha
+\par 160 - Ind\'fastrias do mobili\'e1rio
+\par 170 - Ind\'fastrias do papel e papel\'e3o
+\par 180 - Ind\'fastrias da borracha
+\par 190 - Ind\'fastrias de couro, peles e similares ( exclusive artigos do vestu\'e1rio e cal\'e7ados )
+\par 200 - Ind\'fastrias qu\'edmicas ( inclusive produ\'e7\'e3o de \'e1lcool )
+\par }\pard \qj\fi-1418\li1418\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 201 - Ind\'fastrias de produtos derivados de petr\'f3leo e do carv\'e3o ( exclusive produ\'e7\'e3o de g\'e1s de  ilumina\'e7\'e3o) 
+\par }\pard \qj\fi-567\li567\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 202 - Ind\'fastrias qu\'edmicas de mat\'e9rias primas para a produ\'e7\'e3o de material pl\'e1stico, borracha, fios    e filamentos sint\'e9ticos
+\par }\pard \qj\fi-993\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 210 - Ind\'fastrias de produtos farmac\'eauticos e veterin\'e1rios
+\par 220 - Ind\'fastrias de perfumaria, sab\'f5es e velas
+\par 230 - Ind\'fastrias de produtos de mat\'e9rias pl\'e1sticas
+\par 240 - Ind\'fastrias t\'eaxteis
+\par 241 - Ind\'fastrias domiciliares  t\'eaxteis
+\par 250 - Ind\'fastrias do vestu\'e1rio
+\par 251 - Ind\'fastrias do cal\'e7ado
+\par 260 - Ind\'fastrias de produtos alimentares
+\par 261 - Ind\'fastrias domiciliares de produtos alimentares
+\par 270 - Ind\'fastrias de bebidas ( exclusive produ\'e7\'e3o de \'e1lcool ) 
+\par 280 - Ind\'fastrias do fumo
+\par 290 - Ind\'fastrias editoriais e gr\'e1ficas
+\par 300 - Outras esp\'e9cies de ind\'fastrias, n\'e3o compreendidas nas classes anteriores ou mal definidas
+\par }\pard \qj\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par 
+\par }\pard \qc\li993\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 3 .  CONSTRU\'c7\'c3O CIVIL
+\par 
+\par }\pard \qj\fi-993\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 340 - Constru\'e7\'e3o civil
+\par }\pard \qj\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par 
+\par 
+\par }\pard \qc\fi567\li426\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 5 .  COM\'c9RCIO
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi567\li426\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 COM\'c9RCIO DE MERCADORIAS
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi-426\li426\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 410 - Com\'e9rcio de produtos agropecu\'e1rios e extrativos ( exclusive aves para alimenta\'e7\'e3o )
+\par 411 - Com\'e9rcio de g\'eaneros aliment\'edcios, bebidas e estimulantes
+\par 412 - Com\'e9rcio de tecidos, artefatos de tecidos, artigos do vestu\'e1rio e armarinho
+\par 413 - Com\'e9rcio de m\'f3veis, tape\'e7arias, objetos de artes e ornamenta\'e7\'e3o
+\par 414 - Com\'e9rcio de papel, impressos e artigos de escrit\'f3rio
+\par 415 - Com\'e9rcio de ferragens, lou\'e7as, materiais de constru\'e7\'e3o e produtos metal\'fargicos
+\par 416 - Com\'e9rcio de m\'e1quinas, aparelhos, instrumentos e material el\'e9trico
+\par 417 - Com\'e9rcio de ve\'edculos e acess\'f3rios
+\par 418 - Com\'e9rcio de produtos qu\'edmicos e farmac\'eauticos
+\par 419 - Com\'e9rcio de combust\'edveis e lubrificantes
+\par 420 - Com\'e9rcio ambulante
+\par 421 - Feiras
+\par 422 - Supermercados
+\par 423 - Lojas de departamentos
+\par 424 - Outras esp\'e9cies de com\'e9rcio, n\'e3o compreendidos nas classes anteriores ou mal definidas
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qc\li426\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 7 .  SERVI\'c7OS
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par 
+\par }\pard \qj\fi567\li426\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 SERVI\'c7OS INDUSTRIAIS DE UTILIDADE P\'daBLICA
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 
+\par }\pard \qj\fi-426\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\b\fs20 351 - Produ\'e7\'e3o e distribui\'e7\'e3o de energia el\'e9trica
+\par 352 - Produ\'e7\'e3o e distribui\'e7\'e3o de g\'e1s canalizado
+\par 353 - Abastecimento d\rquote \'e1gua e servi\'e7os de esgoto
+\par 354 - Limpeza p\'fablica e remo\'e7\'e3o de lixo
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\b\fs20 
+\par 
+\par }\pard \qj\fi567\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\fs20 INSTITUI\'c7\'d5ES DE CR\'c9DITO, DE SEGUROS E DE CAPITALIZA\'c7\'c3O  
+\par }\pard \qj\fi-426\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\fs20 
+\par }{\b\fs20 451 - Bancos, financeiras e capitaliza\'e7\'e3o
+\par 452 - Caixas econ\'f4micas e cooperativas de cr\'e9dito
+\par 453 - Seguros
+\par 
+\par }\pard \qj\fi567\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\fs20 COM\'c9RCIO E ADMINISTRA\'c7\'c3O DE IM\'d3VEIS E VALORES MOBILI\'c1RIOS
+\par }\pard \qj\fi-426\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\fs20 
+\par }{\b\fs20 461 - Administra\'e7\'e3o, com\'e9rcio e incorpora\'e7\'e3o de im\'f3veis
+\par 462 - Com\'e9rcio de t\'edtulos e moedas
+\par 463 - Concession\'e1rios de loterias ( exclusive ag\'eancias lot\'e9ricas )
+\par 464 - Organiza\'e7\'f5es de cart\'f5es de cr\'e9dito, sorteios, cons\'f3rcios, clubes de mercadorias e similares
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\b\fs20 
+\par 
+\par }{\fs20 TRANSPORTES
+\par 
+\par }\pard \qj\fi-426\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\b\fs20 471 - Transportes de tra\'e7\'e3o e condu\'e7\'e3o animal
+\par 472 - Transportes rodovi\'e1rios de passageiros
+\par 473 - Transportes rodovi\'e1rios de cargas
+\par 474 - Transportes ferrovi\'e1rios
+\par 475 - Transportes mar\'edtimos, fluviais e lacustres
+\par 476 - Transportes a\'e9reos
+\par 477 - Outras esp\'e9cies de transportes, n\'e3o compreendidas nas classes anteriores ou mal definidas
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\b\fs20 
+\par }{\fs20 COMUNICA\'c7\'d5ES
+\par 
+\par }\pard \qj\fi-426\li426\ri-420\nowidctlpar\widctlpar\tx851\adjustright {\b\fs20 481 - Servi\'e7os postais, telegr\'e1ficos e de radiocomunica\'e7\'f5es
+\par }\pard \qj\fi-426\li426\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 482 - Comunica\'e7\'f5es telef\'f4nicas
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\li993\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 SERVI\'c7OS DE ALOJAMENTOS E ALIMENTA\'c7\'c3O
+\par }{\b\fs20 
+\par }\pard \qj\fi-993\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 511 - Servi\'e7os de alojamento
+\par 512 - Servi\'e7os de alimenta\'e7\'e3o
+\par }\pard \qj\li993\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par 
+\par 
+\par }{\fs20 SERVI\'c7OS DE REPARA\'c7\'c3O E CONSTRU\'c7\'c3O}{\b\fs20 
+\par 
+\par }\pard \qj\fi-1560\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 521 - Servi\'e7os de repara\'e7\'e3o e conserva\'e7\'e3o de m\'e1quinas e aparelhos, el\'e9tricos ou n\'e3o, de uso pessoal ou dom\'e9stico
+\par 522 - Servi\'e7os de repara\'e7\'e3o e manuten\'e7\'e3o de ve\'edculos, (exclusive trens, avi\'f5es, tratores e m\'e1quinas de terraplanagem) 
+\par 523 - Servi\'e7os de repara\'e7\'e3o de artigos de madeiras e do mobili\'e1rio
+\par 524 - Servi\'e7os de repara\'e7\'e3o de instala\'e7\'f5es el\'e9tricas, hidr\'e1ulicas e de g\'e1s
+\par 525 - Outras esp\'e9cies de servi\'e7os de repara\'e7\'e3o e conserva\'e7\'e3o, n\'e3o inclu\'eddas nas classes anteriores ou mal definidas
+\par }\pard \qj\fi-567\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 SERVI\'c7OS PESSOAIS}{\b\fs20 
+\par 
+\par }\pard \qj\fi-1560\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 531 - Servi\'e7os de higiene pessoal
+\par 532 - Servi\'e7os de confec\'e7\'e3o sob medida e repara\'e7\'e3o de artigos do vestu\'e1rio
+\par 533 -Outras esp\'e9cies de servi\'e7os pessoais, n\'e3o inclu\'eddas nas classes anteriores ou mal definidas
+\par }\pard \qj\fi-567\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 SERVI\'c7OS DOMICILIARES
+\par 
+\par }\pard \qj\fi-1560\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 541 - Servi\'e7os de conserva\'e7\'e3o de artigos do vestu\'e1rio e outros artigos de tecidos
+\par 542 - Servi\'e7os de limpeza e conserva\'e7\'e3o de casa, escrit\'f3rios, lojas e edif\'edcios
+\par 543 - Servi\'e7os de vigil\'e2ncia e guarda
+\par 544 - Servi\'e7os dom\'e9sticos remunerados
+\par 545 - Outras esp\'e9cies de servi\'e7os domiciliares, n\'e3o inclu\'eddas nas classes anteriores ou mal definidas
+\par 
+\par }\pard \qj\fi-567\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\fs20 SERVI\'c7OS DE DIVERS\'d5ES, RADIODIFUS\'c3O E TELEVIS\'c3O}{\b\fs20 
+\par 
+\par }\pard \qj\fi-1560\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 551 - Servi\'e7os de divers\'f5es e promo\'e7\'e3o de espet\'e1culos art\'edsticos
+\par 552 - Servi\'e7os de radiodifus\'e3o e televis\'e3o
+\par }\pard \qj\fi-567\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 SERVI\'c7OS T\'c9CNICO-PROFISSIONAIS
+\par 
+\par }\pard \qj\fi-1560\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 571 - Servi\'e7os jur\'eddicos
+\par 572 - Servi\'e7os de contabilidade e auditoria
+\par 573 - Servi\'e7os de assessoria, consultoria, pesquisa, analise e processamento de dados
+\par 574 - Servi\'e7os de engenharia e arquitetura
+\par 575 - Servi\'e7os de publicidade e propaganda
+\par 576 - Servi\'e7os de tradu\'e7\'e3o, de reprodu\'e7\'e3o e documenta\'e7\'e3o
+\par 577 - Est\'fadios de pintura, desenho, escultura  e servi\'e7o de decora\'e7\'e3o
+\par 578 - Outras esp\'e9cies de servi\'e7os t\'e9cnico-profissionais, n\'e3o inclu\'eddas nas classes anteriores ou mal definidas
+\par }\pard \qj\fi-567\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 SERVI\'c7OS AUXILIARES DAS ATIVIDADES ECON\'d4MICAS}{\b\fs20 
+\par 
+\par }\pard \qj\fi-1560\li1560\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 581 - Servi\'e7os auxiliares da agricultura e da pecu\'e1ria
+\par 582 - Servi\'e7os auxiliares do com\'e9rcio de mercadorias
+\par 583 - Servi\'e7os de armazenagem
+\par 584 - Servi\'e7os auxiliares do com\'e9rcio e da ind\'fastria em geral
+\par 585 - Servi\'e7os auxiliares das atividades de seguros, finan\'e7as e valores
+\par 586 - Servi\'e7os auxiliares dos transportes ( exclusive rodovi\'e1rio e mar\'edtimo )
+\par }\pard \qj\fi-426\li426\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 587 - Servi\'e7os auxiliares dos transportes rodovi\'e1rios
+\par 588 - Servi\'e7os auxiliares dos transportes mar\'edtimos
+\par 589 - Servi\'e7os auxiliares das atividades econ\'f4micas em geral
+\par }\pard \qj\li426\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 SERVI\'c7OS COMUNIT\'c1RIOS E SOCIAIS
+\par 
+\par }\pard \qj\fi-426\li426\ri-420\nowidctlpar\widctlpar\adjustright {\b\fs20 610 - Assist\'eancia e benefic\'eancia
+\par 611 - Previd\'eancia social p\'fablica
+\par 612 - Previd\'eancia social particular
+\par 613 - Sindicatos e associa\'e7\'f5es de classe
+\par 614 - Institui\'e7\'f5es cient\'edficas e tecnol\'f3gicas
+\par 615 - Institui\'e7\'f5es filos\'f3ficas e culturais
+\par 616 - Culto e atividades auxiliares
+\par 617 - Entidades desportivas e recreativas
+\par 618 - Organiza\'e7\'f5es c\'edvicas e pol\'edticas
+\par }\pard \qj\fi-851\li851\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 619 - Outras esp\'e9cies de servi\'e7os comunit\'e1rios e sociais, n\'e3o inclu\'eddas nas classes anteriores ou mal  definidas
+\par }\pard \qj\fi-426\li851\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\fi-425\li851\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }{\fs20 SERVI\'c7OS M\'c9DICOS, ODONTOL\'d3GICOS E VETERIN\'c1RIOS 
+\par 
+\par }\pard \qj\fi-851\li851\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 621 - Servi\'e7os m\'e9dicos p\'fablicos
+\par 622 - Servi\'e7os m\'e9dicos particulares
+\par 623 - Servi\'e7os odontol\'f3gicos
+\par 624 - Servi\'e7os de veterin\'e1ria
+\par }\pard \qj\fi-425\li851\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 ENSINO}{\b\fs20 
+\par 
+\par }\pard \qj\fi-851\li851\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 631 - Ensino p\'fablico
+\par 632 - Ensino particular
+\par }\pard \qj\fi-425\li851\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par 
+\par }\pard \qc\fi-425\li851\ri146\nowidctlpar\widctlpar\adjustright {\fs20 8 .   OUTROS
+\par }\pard \qj\fi-425\li851\ri146\nowidctlpar\widctlpar\adjustright {\fs20 
+\par AGRICULTURA, SILVICULTURA E PECU\'c1RIA
+\par 
+\par }\pard \qj\fi-851\li851\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 011 - Cultura de agave
+\par 012 - Cultura de algod\'e3o
+\par 013 - Cultura de arroz
+\par 014 - Cultura de banana
+\par 015 - Cultura de cacau
+\par 016 - Cultura de caf\'e9
+\par 017 - Cultura de cana-de-a\'e7\'facar
+\par 018 - Cultura de fumo 
+\par 019 - Cultura de mandioca
+\par 020 - Cultura de milho
+\par 021 - Cultura de soja
+\par 022 - Cultura de trigo
+\par 023 - Horticultura e floricultura
+\par 024 - Silvicultura
+\par 025 - Culturas n\'e3o discriminadas anteriormente
+\par 026 - Pecu\'e1ria
+\par 027 - Avicultura
+\par 028 - Apicultura e sericicultura
+\par 029 - Outras cria\'e7\'f5es n\'e3o discriminadas anteriormente
+\par }\pard \qj\fi-425\li851\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }\pard \qj\li993\ri146\nowidctlpar\widctlpar\adjustright {\fs20 EXTRA\'c7\'c3O VEGETAL
+\par 
+\par }\pard \qj\fi-993\li993\ri146\nowidctlpar\widctlpar\tx1276\adjustright {\b\fs20 031 - Extra\'e7\'e3o de borracha e gomas el\'e1sticas
+\par }\pard \qj\fi-993\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 032 - Extra\'e7\'e3o de erva-mate
+\par 033 - Extra\'e7\'e3o de plantas fibrosas
+\par 034 - Extra\'e7\'e3o de frutos, sementes oleaginosas e ceras
+\par 035 - Extra\'e7\'e3o de madeiras
+\par 036 - Produ\'e7\'e3o de carv\'e3o vegetal
+\par 037 - Outras esp\'e9cies de extra\'e7\'e3o vegetal
+\par }\pard \qj\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }{\fs20 PESCA E PISCICULTURA  
+\par 
+\par }\pard \qj\fi-993\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 041 - Pesca
+\par 042 - Piscicultura
+\par }\pard \qj\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }{\fs20 ADMINISTRA\'c7\'c3O P\'daBLICA
+\par 
+\par }\pard \qj\fi-993\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 711 - Poder legislativo
+\par 712 - Justi\'e7a e atividades auxiliares
+\par 713 - Servi\'e7os administrativos federais
+\par 714 - Servi\'e7os administrativos estaduais
+\par 715 - Servi\'e7os administrativos municipais
+\par 716 - Servi\'e7os administrativos aut\'e1rquicos
+\par }\pard \qj\fi-567\li567\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 717 - Outros servi\'e7os administrativos dos poderes p\'fablicos, n\'e3o inclu\'eddos nas classes anteriores ou mal definidos
+\par }\pard \qj\fi-567\li1560\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 DEFESA NACIONAL E SEGURAN\'c7A P\'daBLICA}{\b\fs20 
+\par }\pard \qj\fi-1560\li1560\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par }\pard \qj\fi-993\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 721 - Ex\'e9rcito
+\par 722 - Marinha de Guerra
+\par 723 - Aeron\'e1utica
+\par 724 - Pol\'edcia Militar
+\par 725 - Pol\'edcia Civil
+\par 726 - Corpo de Bombeiros
+\par 727 - Outras organiza\'e7\'f5es governamentais de seguran\'e7a
+\par }\pard \qj\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 ORGANIZA\'c7\'d5ES INTERNACIONAIS E REPRESENTA\'c7\'d5ES ESTRANGEIRAS
+\par }{\b\fs20 
+\par }\pard \qj\fi-993\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 801 - Organiza\'e7\'f5es internacionais e representa\'e7\'f5es estrangeiras
+\par }\pard \qj\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 
+\par 
+\par }{\fs20 ATIVIDADES N\'c3O COMPREENDIDAS NAS DEMAIS CLASSES DE ATIVIDADES, ATIVIDADES MAL DEFINIDAS OU N\'c3O DECLARADAS
+\par 
+\par }\pard \qj\fi-993\li993\ri146\nowidctlpar\widctlpar\adjustright {\b\fs20 901 -  Outras atividades n\'e3o compreendidas nas demais classes de atividades
+\par 902 - Atividades  mal definidas
+\par 903 - Atividades em branco ou sem declara\'e7\'e3o 
+\par 
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b  Vari\'e1vel  305 - Ramo de atividade
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Identifica\'e7\'e3o do ramo de atividade da organiza\'e7\'e3o, empresa ou neg\'f3cio do trabalho que a pessoa exercia na semana de refer\'eancia, de acordo com a rela\'e7\'e3
+o de Ramos e classes de atividade especificada na vari\'e1vel 304. 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright { Indicando conforme  o caso:
+\par }{\caps\fs20 1 - Ind\'fastria de transforma\'e7\'e3o
+\par 3 - Constru\'e7\'e3o civil
+\par 5 - Com\'e9rcio
+\par 7 - Servi\'e7os
+\par 8 - Outros
+\par }{\fs20 9 - IGNORADO
+\par }{\b  Vari\'e1vel  306 - Posi\'e7\'e3o na ocupa\'e7\'e3o 
+\par }{
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Posi\'e7\'e3o que a pessoa ocupava em fun\'e7\'e3o de sua rela\'e7\'e3o de trabalho com o estabelecimento, neg\'f3cio ou institui\'e7\'e3o onde trabalhava na semana de refer\'eancia.
+
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Indicando conforme o caso:
+\par }{\caps\fs20 2 - Empregado
+\par 4 - Conta pr\'f3pria
+\par 6 - Empregador
+\par 8 - N\'e3o remunerado
+\par 9 - IGNORADO
+\par 
+\par }{\b Vari\'e1vel  307 - Ganhava por m\'eas, quinzena, semana ou outra forma
+\par 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Refere-se a forma de pagamento do empregado no trabalho principal.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Indicado conforme o caso: 
+\par 
+\par }{\caps\fs20 1 - M\'eas
+\par 3 - Quinzena
+\par 5 - Semana
+\par 7 - Outra
+\par }{\fs20 9 - IGNORADO
+\par }{
+\par }{\b Vari\'e1vel  308 - Tinha carteira assinada
+\par 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga se a pessoa tinha ou n\'e3o carteira de trabalho assinada no trabalho principal.
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20 2 - SIM
+\par 4 - N\'c3O
+\par 9 - IGNORADO
+\par }{
+\par }{\b Vari\'e1vel  309 - Rendimento efetivamente recebido no m\'eas
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Refere-se ao rendimento efetivamente recebido em dinheiro do trabalho principal no m\'eas de refer\'eancia, em valor inteiro da moeda corrente e }{\caps\fs20 ignorarado  (999999999).
+}{
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par   }{\b Vari\'e1vel  339 - Faixa de rendimento em dinheiro no trabalho principal (c\'f3digo)
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright { Refere-se ao c\'f3digo correspondente \'e0  faixa de rendimento do trabalho principal que a pessoa tinha na semana de refer\'eancia. De acordo com as faixas de sal\'e1
+rio abaixo, com base no sal\'e1rio m\'ednimo vigente no m\'eas de abril / 96 (R$ 100,00).
+\par }{\fs20 06 - SEM RENDIMENTO
+\par 07 - SOMENTE EM BENEF\'cdCIO
+\par 09 - IGNORADO
+\par 10 - at\'e9  \'bd SAL\'c1RIO M\'cdNIMO
+\par 11 - mais de \'bd SM a 1 SM
+\par 12 - mais de 1 SM a 2 SM
+\par 13 - mais de 2 SM a 4 SM
+\par 14 - mais de 4 SM a  6 SM
+\par 15 - mais de 6 SM a 8 SM
+\par 16 - mais de 8 SM a 10 SM
+\par 17 - mais de 10 SM a 12 SM
+\par 18 - mais de 12 SM a 14 SM
+\par 19 - mais de 14 SM a 16 SM
+\par 20 - mais de 16 SM a 18 SM
+\par 21 - mais de 18 SM a 20 SM
+\par 22 - mais de 20 SM a 25 SM
+\par 23 - mais de 25 SM a 30 SM
+\par 24 - mais de 30 SM a 35 SM
+\par 25 - mais de 35 SM a 40 SM
+\par 26 - mais de 40 SM a 50 SM
+\par 27 - mais de 50 SM a 60 SM  
+\par 28 - mais de 60 SM a 70 SM
+\par 29 - mais de 70 SM a 80 SM
+\par 30 - 80 SM ou mais   
+\par }{ 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  310 - Horas efetivamente trabalhadas na semana
+\par 
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i   }{Refere-se ao n\'famero de horas que a pessoa efetivamente trabalhou, na semana de refer\'eancia  no trabalho principal.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {         Para pessoa que trabalhou efetivamente }{\b 98 horas ou mais}{ por semana, o registro \'e9 }{\b 98}{. Para pessoa que tinha trabalho mas n\'e3o trabalhou na semana de refer\'ea
+ncia, o registro \'e9 }{\b 00}{ (dois zeros). 
+\par  
+\par }{\b Vari\'e1vel 311 - Rendimento efetivamente recebido no m\'eas nos outros trabalhos 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Investiga o rendimento efetivamente recebido em dinheiro no m\'eas de refer\'eancia no(s) outro(s) trabalho(s) que a pessoa tinha na semana de refer\'eancia. 
+\par Os crit\'e9rios para o preenchimento deste quesito s\'e3o os mesmos estabelecidos para a vari\'e1vel  309, exceto a pessoa que, no m\'eas de refer\'eancia, era }{\b n\'e3o remunerada}{ no(s) outro(s) trabalho(s) que tinha na semana de refer\'ea
+ncia com o c\'f3digo correspondente na vari\'e1vel 341.
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  341 - Faixa de rendimento em dinheiro nos outros trabalhos (c\'f3digo)
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright { Refere-se ao c\'f3digo correspondente a faixa de rendimento do(s) outro(s) trabalho(s) que a pessoa tinha na semana de refer\'eancia. De acordo com faixas de sal\'e1
+rio abaixo, com base no sal\'e1rio m\'ednimo vigente no m\'eas de abril / 96 (R$ 100,00).
+\par }{\fs20 06 - SEM RENDIMENTO
+\par 07 - SOMENTE EM BENEF\'cdCIO
+\par 08 - N}{\caps\fs20 \'e3o}{\fs20  REMUNERADO
+\par 09 - IGNORADO
+\par 10 - at\'e9  \'bd SAL\'c1RIO M\'cdNIMO
+\par 11 - mais de \'bd SM a 1 SM
+\par 12 - mais de 1 SM a 2 SM
+\par 13 - mais de 2 SM a 4 SM
+\par 14 - mais de 4 SM a  6 SM
+\par 15 - mais de 6 SM a 8 SM
+\par 16 - mais de 8 SM a 10 SM
+\par 17 - mais de 10 SM a 12 SM
+\par 18 - mais de 12 SM a 14 SM
+\par 19 - mais de 14 SM a 16 SM
+\par 20 - mais de 16 SM a 18 SM
+\par 21 - mais de 18 SM a 20 SM
+\par 22 - mais de 20 SM a 25 SM
+\par 23 - mais de 25 SM a 30 SM
+\par 24 - mais de 30 SM a 35 SM
+\par 25 - mais de 35 SM a 40 SM
+\par 26 - mais de 40 SM a 50 SM
+\par 27 - mais de 50 SM a 60 SM  
+\par 28 - mais de 60 SM a 70 SM
+\par 29 - mais de 70 SM a 80 SM
+\par 30 - 80 SM ou mais   
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b Vari\'e1vel  312 - Horas efetivamente trabalhadas na semana no(s) outro(s) trabalho(s) 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Refere-se ao n\'famero de horas que a pessoa efetivamente trabalhou, na semana de refer\'eancia  no(s) outro(s) trabalho(s). N\'e3o inclu\'eddas as horas j\'e1 registradas na vari
+\'e1vel 310.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {          Os crit\'e9rios adotados para esta vari\'e1vel s\'e3o os mesmos estabelecidos da vari\'e1vel 310. 
+\par   
+\par  }{\b Vari\'e1vel  313 - Tomou provid\'eancia no per\'edodo
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga se a pessoa tomou ou n\'e3o alguma provid\'eancia para conseguir trabalho no per\'edodo de refer\'eancia de 30 dias.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20 1- SIM
+\par 3 - N\'c3O
+\par 9 - IGNORADO
+\par }{
+\par  }{\b Vari\'e1vel  314 - Tomou provid\'eancia antes
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga se a pessoa tomou ou n\'e3o alguma provid\'eancia para conseguir trabalho antes do per\'edodo de 30 dias.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20 2 - SIM
+\par 4 - N\'c3O
+\par 9 -IGNORADO
+\par }{
+\par }{\b Vari\'e1vel  315 - Provid\'eancia tomada
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Refere-se a provid\'eancia tomada pela pessoa na semana de refer\'eancia, no per\'edodo de refer\'eancia de 30 dias e antes do per\'edodo de refer\'eancia de 30 dias.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Indicado conforme o caso:
+\par }{\caps\fs20 1 - Consultou empregadores
+\par 2 - Fez concurso
+\par 3 - Consultou ag\'eancia ou sindicato
+\par 4 - Colocou ou respondeu an\'fancio
+\par 5 - Consultou parente, amigo ou colega 
+\par 6 - Outra
+\par 7 - Nada fez
+\par }{\fs20 9 - IGNORADO
+\par }{
+\par }{\b Vari\'e1vel  316 - Quando tomou provid\'eancia (dia)
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Corresponde o DIA em que a pessoa tomou a \'faltima provid\'eancia para conseguir trabalho.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright { }{\b Vari\'e1vel  346 - Quando tomou provid\'eancia (m\'eas)
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Corresponde o M\'caS em que a pessoa tomou a \'faltima provid\'eancia para conseguir trabalho.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b  Vari\'e1vel  356 - Quando tomou provid\'eancia (ano)
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Corresponde o ANO em que a pessoa tomou a \'faltima provid\'eancia para conseguir trabalho.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par  }{\b Vari\'e1vel  366 - Quando tomou provid\'eancia (}{\i salto}{\b )}{  
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Refere-se ao c\'f3digo que indica se a data da \'faltima provid\'eancia para conseguir trabalho se encontra dentro ou fora do per\'edodo de refer\'eancia de 30 dias.
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {          1 - (se a data estiver dentro do per\'edodo de refer\'eancia de 30 dias); ou
+\par           2 - (se a data n\'e3o estiver dentro do per\'edodo de refer\'eancia de 30 dias)
+\par }{\fs20             9 - IGNORADO
+\par }{ 
+\par }{\b Vari\'e1vel  317 - Quanto tempo de procura (meses)
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Refere-se ao tempo de procura em meses completos que a pessoa, sem exercer uma ocupa\'e7\'e3o econ\'f4mica, vem tomando provid\'eancia para conseguir trabalho. Para a vari\'e1
+vel ignorada o registro \'e9 99, e para m\'eas incompleto o registro nesta vari\'e1vel \'e9 00. 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b Vari\'e1vel  347 - Quanto tempo de procura (semanas)
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{ Refere-se ao tempo de procura em semanas completas que a pessoa, sem exercer uma ocupa\'e7\'e3o econ\'f4mica, vem tomando provid\'eancia para conseguir trabalho. Para a vari\'e1
+vel ignorada o registro \'e9 99, e para semana incompleta o registro nesta vari\'e1vel \'e9 00. 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b Vari\'e1vel  318 - J\'e1 trabalhou antes com remunera\'e7\'e3o
+\par 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga se o trabalho anterior da pessoa era remunerado. 
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20           1 - SIM
+\par           3 - N\'c3O
+\par           9 - IGNORADO
+\par }{   
+\par }{\b Vari\'e1vel  319 - J\'e1 trabalhou antes sem remunera\'e7\'e3o}{ 
+\par 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga se o trabalho anterior da pessoa era sem remunera\'e7\'e3o. 
+\par }{\fs20 2 - SIM
+\par 4 - N\'c3O
+\par 9 - IGNORADO
+\par }{
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  320 - Quanto tempo n\'e3o trabalha (anos)
+\par 
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga o tempo em ANOS completos que a pessoa ficou sem trabalho remunerado. Para a vari\'e1vel ignorada o registro \'e9 99, e para ano incompleto o registro nesta vari\'e1vel 
+\'e9 00. 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b 
+\par Vari\'e1vel  350 - Quanto tempo n\'e3o trabalha (meses)
+\par 
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga o tempo em MESES completos que a pessoa ficou sem trabalho remunerado. Para a vari\'e1vel ignorada o registro \'e9 99, e para m\'eas incompleto o registro nesta vari\'e1
+vel \'e9 00. 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b 
+\par Vari\'e1vel  360 - Quanto tempo n\'e3o trabalha (semanas)
+\par 
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga o tempo em SEMANAS completas que a pessoa ficou sem trabalho remunerado. Para a vari\'e1vel ignorada o registro \'e9 99, e para semana incompleta o registro nesta vari\'e1
+vel \'e9 00. 
+\par  }{\b 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  321 - Ocupa\'e7\'e3o anterior
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Identifica a ocupa\'e7\'e3o referente ao \'faltimo trabalho remunerado. Esta ocupa\'e7\'e3o corresponde ao cargo, fun\'e7\'e3o, profiss\'e3o ou of\'edcio exercido pela pessoa, n\'e3
+o devendo ser confundida com a forma\'e7\'e3o profissional.  (Ver rela\'e7\'e3o de ocupa\'e7\'f5es e c\'f3digos na vari\'e1vel 303).
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b Vari\'e1vel  322 - Atividade anterior
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Identifica a classe de atividade do \'faltimo trabalho remunerado desenvolvida no estabelecimento, institui\'e7\'e3o ou outro local em que o entrevistado exerceu a ocupa\'e7\'e3
+o. (Ver rela\'e7\'e3o de classes de atividade e c\'f3digos na vari\'e1vel 304).
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  323 - Ramo de atividade do trabalho anterior
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Identifica o ramo de atividade da organiza\'e7\'e3o, empresa ou neg\'f3cio do \'faltimo trabalho remunerado que a pessoa exerceu, de acordo com a rela\'e7\'e3
+o de Ramos e classes de atividade especificada na vari\'e1vel 304. 
+\par }\pard \qj\fi1843\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Indicado conforme o caso:
+\par }\pard \fi2127\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20 1 - Ind\'fastria de transforma\'e7\'e3o
+\par 3 - Constru\'e7\'e3o civil
+\par 5 - Com\'e9rcio
+\par 7 - Servi\'e7os
+\par 8 - Outros}{\caps\v\fs20 utrosO}{\b\caps\fs20 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\fs20                             9 - IGNORADO
+\par }{\b\fs20 
+\par }{\b Vari\'e1vel  324 - Posi\'e7\'e3o na ocupa\'e7\'e3o do trabalho anterior
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Rela\'e7\'e3o de trabalho que existia entre a pessoa e o estabelecimento, neg\'f3cio ou institui\'e7\'e3o onde prestava seus servi\'e7os no \'faltimo trabalho.
+\par }\pard \qj\fi1843\sl360\slmult1\nowidctlpar\widctlpar\adjustright {Indicado conforme o caso:
+\par }\pard \qj\fi1985\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20 2 - Empregado
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\caps\fs20                          4 - Conta pr\'f3pria
+\par                          6 - Empregador    
+\par }{\fs20                          9 - IGNORADO
+\par }{\b\fs20 
+\par }{\b Vari\'e1vel  325 - Tempo trabalhado no \'faltimo emprego (anos)
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Registro do tempo em ANOS completos que a pessoa trabalhou no \'faltimo emprego. Para a vari\'e1vel ignorada o registro \'e9 99, e para tempo inferior a um ano o registro nesta vari
+\'e1vel \'e9 00. 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  355 - Tempo trabalhado no \'faltimo emprego (meses)
+\par }\pard \qj\fi1134\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Registro do tempo em MESES completos que a pessoa trabalhou no \'faltimo emprego. Para a vari\'e1vel ignorada o registro \'e9 99, e para tempo inferior a um m\'ea
+s o registro nesta vari\'e1vel \'e9 00. 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  326 - Porque saiu do \'faltimo emprego
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Corresponde ao motivo da sa\'edda do \'faltimo emprego, ou seja, se a pessoa pediu para sair ou se foi dispensada.
+\par }{\fs20 1 - PEDIU PARA SAIR
+\par 3 - FOI DISPENSADO
+\par 9 - IGNORADO
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  327 - Carteira de trabalho assinada no \'faltimo emprego
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga se a pessoa tinha ou n\'e3o carteira de trabalho assinada no \'faltimo emprego.}{\b 
+\par }{\fs20 2 - SIM
+\par 4 - N\'c3O
+\par 9 - IGNORADO
+\par }{
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  328 - \'daltimo emprego recebimento de fundo de garantia
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{Investiga se a pessoa recebeu ou n\'e3o fundo de garantia do \'faltimo emprego.
+\par }{\fs20 1 - SIM
+\par 3 - N\'c3O
+\par 9 - IGNORADO
+\par }{
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  256 - Idade calculada
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\i  }{C\'e1lculo da idade a partir da data de nascimento em rela\'e7\'e3o a data da entrevista.
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  500 \endash  Espa\'e7o de 6 posi\'e7\'f5es em branco.
+\par }\pard \qj\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b   }{
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b Vari\'e1vel  }{\b 6}{\b 00 \endash  }{\b Painel / Remessa}{\b 
+\par }\pard \qj\fi1276\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b \tab }{Indica }{o }{painel e a remessa a que pertence o domic\'edlio.
+\par 
+\par }\pard \qj\fi709\sl360\slmult1\nowidctlpar\widctlpar\adjustright {\b V}{\b ari\'e1vel  }{\b 10}{\b 00 \endash  P}{\b eso para expans\'e3o
+\par }{\tab Vari\'e1vel com seis posi\'e7\'f5es contendo o peso para expans\'e3o dos resultados. Ao ser utilizada os valores expandidos devem ser divididos por 1000.}{
+\par }{\b 
+\par }{
+\par }\pard \qj\fi709\li1701\sl360\slmult1\nowidctlpar\widctlpar\adjustright {
+\par }{\b\i\ul 
+\par }}

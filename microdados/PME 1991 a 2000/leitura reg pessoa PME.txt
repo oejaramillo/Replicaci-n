@@ -1,0 +1,125 @@
+/*-----------------------------------------------------*/
+/* Leitura dos registros da Pesquisa Mensal de Emprego */
+/* Ano de 1995 -jan a nov    Variáveis de Pessoas */
+/*-----------------------------------------------------*/
+Libname PME "c:\" ;
+Data PME.Pessoas;
+	Infile "d:\PME51BAP.txt" lrecl=137  missover  ;
+	Input	@1  	UF 	$char2.	/*código da Unidade da Federação*/
+		@3	ANO	 4.		/*Ano da pesquisa */
+		@7	MÊS    2.		/*Mês da pesquisa*/
+		@9	V010	$char2.	/*Sigla da UF */
+		@11	V102	$char6.	/*Número de Controle*/
+		@17	V103 	 2.		/*Número de série*/
+		@19	V201	 2.		/*Número de ordem*/
+		@21	V202	 1.		/*Sexo*/
+		@22	V203	 1.		/*Condição no domicílio*/
+		@23	V204	 1.		/*Condição na família*/
+		@24	V205	 1.		/*Número da Família*/
+		@25	V206	 2.		/*Dia de nascimento*/
+		@27	V236	 2.		/*Mês de nascimento*/
+		@29	V246	 3.		/*Ano de nascimento*/
+		@32	V207	 1.		/*Sabe ler e escrever*/
+		@33	V208	 1.		/*Freqüenta escola*/
+		@34	V209	 1.		/*Última série concluída*/
+		@35	V210	 1.		/*Grau*/
+		@36	V211	 1.		/*Concluiu o curso*/
+		@37	V301	 1.		/*Que fez na semana*/
+		@38	V302	 1.		/*Tinha mais de 1 trab. na semana*/
+		@39	V303	 3.		/*Ocupação na semana*/
+		@42	V304	 3.		/*Atividade,ramo do negócio*/
+		@45	V305	 1.		/*Ramo de atividade*/
+		@46	V306	 1.		/*Posição na ocupação*/
+		@47  	V307	 1.		/*Ganha por mês, quinzena ... */
+		@48	V308	 1.		/*Tem carteira assinada*/
+		@49 	V309	 9.		/*Rendimento mensal efetivamente recebido*/
+		@58	V339	 2.		/*Faixa de rendimento*/
+		@60	V310	 2.		/*Horas efetivamente trabalhadas na semana*/
+		@62	V311	 9.		/*Rendimento mensal outro(s) trabalho(s)*/
+		@71	V341	 2.		/*Faixa de rendimento - outro(s) trabalho(s)*/
+		@73	V312	 2.		/*Horas efetivas trab. sem. outro(s) trabalho(s)*/
+		@75	V313	 1.		/*Proc. trab. nos 23 dias anteriores à sem. ref.*/
+		@76	V314	 1.		/*Proc trab entre 23 dias antes até 365 dias*/                         
+		@77	V315	 1.		/*Que providência tomou para conseguir trabalho*/
+		@78	V316	 2.		/*Quando tomou última providência (dia)*/
+		@80	V346	 2.		/*Quando tomou última providência (mês)*/
+		@82	V356	 2.		/*Quando tomou última providência (ano)*/
+		@84	V366	 1.		/*Tempo que tomou última providência*/
+		@85	V317	 2.		/*Até últ dia sem,há qto tempo estava rocur(meses)*/
+		@87	V347	 2.		/*Até últ dia sem,há qto tempo estava procur(sem)*/				@89	V318	 1.		/*Já trabalhou antes com rendimento*/
+		@90	V319	 1.		/*Já trabalhou antes sem rendimento*/
+		@91	V320	 2.		/*Tempo que saiu do últ. trab.remun (anos)*/
+		@93	V350	 2.		/*Tempo que saiu do últ. trab.remun (meses)*/
+		@95	V360	 2. 		/*Tempo que saiu do últ. trab.remun (semanas)*/
+		@97	V321	 3.		/*Ocupação anterior*/
+		@100	V322	 3.		/*Atividade anterior*/
+		@103	V323	 1.		/*Ramo de atividade anterior*/
+		@104	V324	 1.		/*Posição na ocupação anterior*/
+		@105	V325	 2.		/*Tempo último emprego que teve (anos)*/
+		@107	V355	 2.		/*Tempo último emprego que teve (meses)*/
+		@109	V326	 1.		/*Porque saiu do último emprego*/
+		@110	V327	 1.		/*Ultimo emprego, tinha carteira*/
+		@111	V328	 1.		/*Último emprego, recebeu fgts*/
+		@112	V256	 3.		/*Idade calculada*/
+		@115	brancos 14.		/*espaços em branco*/
+		@129	PESO	 9.	;   /*Peso da pessoa*/													
+/* Label das variáveis */
+	Label UF ='Código da UF'
+		ANO ='Ano da pesquisa'
+	      MES ='Mês da pesquisa'
+		V010='UF'
+	   	V102='Número de Controle'
+	   	V103='Número de série'
+		V201='Número de ordem'
+		V202='Sexo'
+		V203='Condição no domicílio'
+		V204='Condição na família'
+		V205='Número da Família'
+		V206='Dia de nascimento'
+		V236='Mês de nascimento'
+		V246='Ano de nascimento'
+		V207='Sabe ler e escrever'
+		V208='Frequenta escola'
+		V209='Última série concluída'
+		V210='Grau'
+		V211='Concluiu o curso'
+		V301='Que fez na semana'
+		V302='Mais de um trab. na semana'
+		V303='Ocupação na semana'
+		V304='Atividade na semana'
+		V305='Ramo de atividade'
+		V306='Posição na ocupação'
+		V307='Ganha por...'
+		V308='Tem carteira assinada'
+		V309='Rendimento mensal'
+		V339='Faixa de rendimento'
+		V310='Horas trabalhadas na semana'
+		V311='Rendimento mensal outro(s) trabalho(s)'
+		V341='Faixa de rendimento - outro(s) trabalho(s)'
+		V312='Horas trab. sem. outro(s) trabalho(s)'
+		V313='Proc. trab. nos 23 dias ant à sem ref'
+		V314='Proc trab entre 23 dias e 365 dias ant à sem'
+		V315='Providência que tomou para conseguir trabalho'
+		V316='Dia que tomou última providência'
+		V346='Mês que tomou última providência'
+		V356='Ano da última providência'
+		V366='Tempo que tomou última providência'
+		V317='Meses de procura até últ dia sem'
+		V347='Semanas de procura até últ dia sem'
+		V318='Trabalhou antes com rendimento'
+		V319='Trabalhou antes sem rendimento'
+		V320='Anos que saiu do últ. trab.remun'
+		V350='Meses que saiu do últ. trab.remun'
+		V360='Semanas que saiu do últ. trab.remun'
+		V321='Ocupação anterior'
+		V322='Atividade anterior'
+		V323='Ramo de atividade anterior'
+		V324='Posição na ocupação anterior'
+		V325='Anos em que esteve no último emprego'
+		V355='Meses em que esteve no último emprego'
+		V326='Porque saiu do último emprego'
+		V327='Tinha carteira no último emprego'
+		V328='Recebeu fgts no último emprego'
+		V256='Idade calculada'
+		PESO='Peso da pessoa'                ;
+Run;
